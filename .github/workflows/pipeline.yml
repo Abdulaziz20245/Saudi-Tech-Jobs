@@ -1,0 +1,34 @@
+name: Daily pipeline
+
+# Collects new postings every day. Enable it once the production database exists:
+#   Settings > Secrets and variables > Actions
+#   - secret   DATABASE_URL       (production Postgres)
+#   - variable PIPELINE_ENABLED = true
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 03:00 Riyadh
+  workflow_dispatch:
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: ${{ vars.PIPELINE_ENABLED == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: backend
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync --locked --no-dev
+      - name: Apply migrations
+        run: uv run alembic upgrade head
+      - name: Collect postings
+        run: uv run python -m collector.run

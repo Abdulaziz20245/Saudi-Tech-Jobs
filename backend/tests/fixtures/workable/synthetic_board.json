@@ -1,0 +1,38 @@
+{
+  "name": "Example Co",
+  "description": "",
+  "jobs": [
+    {
+      "title": "مهندس برمجيات - واجهات خلفية",
+      "shortcode": "ABC123DEF4",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Engineering",
+      "url": "https://apply.workable.com/j/ABC123DEF4",
+      "shortlink": "https://apply.workable.com/j/ABC123DEF4",
+      "application_url": "https://apply.workable.com/j/ABC123DEF4/apply",
+      "published_on": "2026-10-12",
+      "created_at": "2026-10-11",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "locations": [{"country": "Saudi Arabia", "countryCode": "SA", "city": "Riyadh",
+                     "region": "Riyadh Province", "hidden": false}],
+      "description": "<p>نبحث عن مهندس برمجيات لديه خبرة في Node.js و PostgreSQL.</p>"
+    },
+    {
+      "title": "Customer Success Manager",
+      "shortcode": "XYZ987",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/XYZ987",
+      "published_on": "2026-10-09",
+      "country": "Egypt",
+      "city": "Cairo",
+      "locations": [{"country": "Egypt", "countryCode": "EG", "city": "Cairo", "hidden": false}],
+      "description": "<p>Help customers.</p>"
+    }
+  ]
+}

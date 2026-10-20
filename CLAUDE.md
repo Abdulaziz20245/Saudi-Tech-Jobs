@@ -30,15 +30,17 @@ measurable results**, so prefer working, deployed, measured features over clever
 - **Scheduling:** GitHub Actions cron runs the collector and extractor daily
 - **Hosting:** frontend on Vercel, API on Render or Fly.io
 
-## Repo layout (target)
+## Repo layout
 ```
 backend/
-  app/            FastAPI app (routers, schemas, services)
-  collector/      one module per job source (greenhouse.py, lever.py, ashby.py, workable.py, ...)
+  app/            FastAPI app (routers, schemas, services); config.py holds all settings
+  collector/      http.py (polite client), sources/ (one adapter per ATS), location.py (KSA
+                  filter), store.py (idempotent upserts), run.py and discover.py (CLIs)
   extraction/     LLM extraction prompts, schema, runner
   evals/          labeled dataset + scoring scripts
-  db/             models, Alembic migrations
-  tests/
+  db/             SQLAlchemy models and session
+  migrations/     Alembic migrations
+  tests/          pytest; fixtures/ holds saved job-board responses
 frontend/
   src/            pages, components, api client
 data/
@@ -46,14 +48,20 @@ data/
 docs/  design/
 ```
 
-## Commands (fill in as they become real)
-- `cd backend && uv sync` install backend deps
-- `uv run pytest` run backend tests
-- `uv run python -m collector.run` collect postings
-- `uv run python -m extraction.run` extract structured fields for new postings
-- `uv run python -m evals.score` score extraction against the labeled set
-- `uv run uvicorn app.main:app --reload` run the API locally
-- `cd frontend && npm install && npm run dev` run the site locally
+## Commands
+All backend commands run from `backend/`.
+- `docker compose up -d db` (repo root) start local Postgres
+- `uv sync` install backend deps
+- `uv run alembic upgrade head` apply migrations;
+  `uv run alembic revision --autogenerate -m "..."` after changing `db/models.py`
+- `uv run pytest` run tests (in-memory SQLite by default; set `TEST_DATABASE_URL` for Postgres)
+- `uv run ruff check . && uv run ruff format --check . && uv run mypy .` lint and typecheck
+- `uv run python -m collector.discover tabby tamara` find a company's job board
+  (`--save-fixtures` stores real responses for tests)
+- `uv run python -m collector.run [--only <slug>] [--verified-only]` collect postings
+- `uv run uvicorn app.main:app --reload` run the API locally (`/api/health`, `/docs`)
+
+Coming later: `python -m extraction.run`, `python -m evals.score`, `cd frontend && npm run dev`.
 
 ## Rules
 - **Secrets:** never commit API keys. Read `ANTHROPIC_API_KEY` and `DATABASE_URL` from env;

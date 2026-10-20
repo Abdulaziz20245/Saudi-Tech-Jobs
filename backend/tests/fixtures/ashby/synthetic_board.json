@@ -1,0 +1,30 @@
+{
+  "apiVersion": "1",
+  "jobs": [
+    {
+      "id": "7f9e0c1a-1111-4000-8000-000000000001",
+      "title": "Machine Learning Engineer",
+      "department": "AI",
+      "team": "Applied ML",
+      "employmentType": "FullTime",
+      "location": "Riyadh",
+      "secondaryLocations": [{"location": "Jeddah"}],
+      "publishedAt": "2026-10-10T07:00:00.000+00:00",
+      "isListed": true,
+      "isRemote": false,
+      "workplaceType": "OnSite",
+      "address": {"postalAddress": {"addressLocality": "Riyadh", "addressCountry": "Saudi Arabia"}},
+      "jobUrl": "https://jobs.ashbyhq.com/example/7f9e0c1a-1111-4000-8000-000000000001",
+      "applyUrl": "https://jobs.ashbyhq.com/example/7f9e0c1a-1111-4000-8000-000000000001/application",
+      "descriptionHtml": "<p>Train and ship LLM features.</p>",
+      "descriptionPlain": "Train and ship LLM features."
+    },
+    {
+      "id": "7f9e0c1a-1111-4000-8000-000000000002",
+      "title": "Unlisted Role",
+      "location": "Riyadh",
+      "isListed": false,
+      "jobUrl": "https://jobs.ashbyhq.com/example/x"
+    }
+  ]
+}

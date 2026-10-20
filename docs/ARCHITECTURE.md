@@ -25,10 +25,14 @@
 5. **Frontend** (`frontend/`): dashboard, job explorer, skill pages, CV coach.
 
 ## Data model (initial)
-- `companies`: id, name, slug, website, logo_url, ats_type, ats_identifier, industry, active
-- `postings`: id, company_id, source, source_job_id (unique with source), title, description_raw,
-  language, location_raw, apply_url, posted_at, first_seen_at, last_seen_at, closed_at,
-  content_hash
+- `companies`: id, name, slug, website, ats_type, ats_identifier, active, last_collected_at,
+  last_error (logo_url, industry later)
+- `postings`: id, company_id, source, source_job_id (unique with source), title,
+  description_html, description_text, language (en | ar | mixed), location_raw, department,
+  employment_type_raw, workplace_type_raw, apply_url, posted_at, first_seen_at, last_seen_at,
+  closed_at, content_hash
+- `collection_runs`: one row per collector pass (companies ok/failed, postings new/updated/
+  closed); feeds monitoring and the "last updated" label
 - `posting_extractions`: posting_id, prompt_version, model, is_tech, role_family, seniority,
   city, work_mode, employment_type, salary_min, salary_max, salary_currency,
   years_experience_min, extracted_at, input_tokens, output_tokens

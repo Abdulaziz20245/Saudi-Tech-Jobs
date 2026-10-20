@@ -1,0 +1,13 @@
+{
+  "id": "744000012345678",
+  "name": "Cloud Security Engineer",
+  "postingUrl": "https://jobs.smartrecruiters.com/ExampleCo/744000012345678-cloud-security-engineer",
+  "applyUrl": "https://jobs.smartrecruiters.com/ExampleCo/744000012345678-cloud-security-engineer?oga=true",
+  "jobAd": {
+    "sections": {
+      "companyDescription": {"title": "Company", "text": "<p>About us.</p>"},
+      "jobDescription": {"title": "Job Description", "text": "<p>Secure our AWS and Azure workloads.</p>"},
+      "qualifications": {"title": "Qualifications", "text": "<ul><li>AWS</li><li>SIEM</li></ul>"}
+    }
+  }
+}

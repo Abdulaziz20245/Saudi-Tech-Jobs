@@ -1,0 +1,16 @@
+{
+  "offset": 0,
+  "limit": 100,
+  "totalFound": 1,
+  "content": [
+    {
+      "id": "744000012345678",
+      "name": "Cloud Security Engineer",
+      "releasedDate": "2026-10-05T10:00:00.000Z",
+      "location": {"city": "Riyadh", "region": "Riyadh", "country": "sa", "remote": false,
+                   "fullLocation": "Riyadh, Riyadh, Saudi Arabia"},
+      "department": {"label": "Cybersecurity"},
+      "typeOfEmployment": {"label": "Full-time"}
+    }
+  ]
+}

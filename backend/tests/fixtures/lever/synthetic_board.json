@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000001",
+    "text": "Backend Engineer (Go)",
+    "categories": {"location": "Riyadh", "team": "Engineering", "commitment": "Full-time",
+                   "allLocations": ["Riyadh"]},
+    "country": "SA",
+    "workplaceType": "hybrid",
+    "description": "<div>Build payment services.</div>",
+    "lists": [{"text": "Requirements", "content": "<li>Go</li><li>PostgreSQL</li>"}],
+    "additional": "<div>Visa sponsorship available.</div>",
+    "hostedUrl": "https://jobs.lever.co/example/a1b2c3d4-0000-4000-8000-000000000001",
+    "applyUrl": "https://jobs.lever.co/example/a1b2c3d4-0000-4000-8000-000000000001/apply",
+    "createdAt": 1759312800000
+  },
+  {
+    "id": "a1b2c3d4-0000-4000-8000-000000000002",
+    "text": "Product Designer",
+    "categories": {"location": "Cairo, Egypt", "team": "Design", "commitment": "Full-time"},
+    "country": "EG",
+    "workplaceType": "onsite",
+    "description": "<div>Design things.</div>",
+    "lists": [],
+    "additional": "",
+    "hostedUrl": "https://jobs.lever.co/example/a1b2c3d4-0000-4000-8000-000000000002",
+    "createdAt": 1759312800000
+  }
+]

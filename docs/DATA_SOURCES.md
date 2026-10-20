@@ -16,6 +16,12 @@ keeps us clean legally and gives structured data.
 Endpoints are from vendor docs and public references; verify each one against a real company
 before relying on it, and save a sample response to `backend/tests/fixtures/`.
 
+**Finding a company's board:** `uv run python -m collector.discover <name> [<name> ...]` tries
+Greenhouse, Lever, Ashby and Workable with likely identifiers and prints the hits with how many
+jobs are in KSA. Add `--save-fixtures` to store the real JSON for tests. SmartRecruiters
+identifiers rarely match the brand, so find those from the careers page links.
+After a hit, set `ats`, `id` and `verified: true` in `data/companies.yaml`.
+
 ## Company list
 `data/companies.yaml` is the curated list of Saudi (or Saudi-hiring) tech employers:
 ```yaml

@@ -3,11 +3,15 @@
 Status key: [ ] not started, [~] in progress, [x] done
 
 ## Milestone 1: Data pipeline
-- [ ] Repo scaffold (backend with uv, frontend with Vite), `.env.example`, CI running tests
-- [ ] Verify ATS endpoints and build `data/companies.yaml` (target 40+ companies)
-- [ ] Collector adapters with fixture-based tests
-- [ ] Postgres schema + Alembic migrations, idempotent upserts, closed-posting detection
-- [ ] Daily GitHub Actions run
+- [x] Backend scaffold (uv, FastAPI, settings), `.env.example`, CI (lint, types, tests on Postgres)
+- [x] Collector adapters for Greenhouse, Lever, Ashby, Workable, SmartRecruiters with tests
+- [x] Postgres schema + Alembic migrations, idempotent upserts, closed-posting detection
+- [x] KSA location filter (English + Arabic place names, country codes)
+- [x] `collector.discover` CLI to find a company's job board and save real fixtures
+- [~] Daily GitHub Actions run (workflow ready; enable after production DB exists)
+- [ ] Verify ATS endpoints against live data and build `data/companies.yaml` (target 40+)
+- [ ] Replace synthetic fixtures with real saved responses
+- [ ] Frontend scaffold (Vite) — with Milestone 3
 
 ## Milestone 2: Extraction you can measure
 - [ ] Extraction schema + prompt v1 with Pydantic validation
