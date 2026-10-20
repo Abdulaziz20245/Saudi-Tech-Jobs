@@ -1,0 +1,84 @@
+# Curated list of companies hiring tech roles in Saudi Arabia.
+# ats: greenhouse | lever | ashby | workable | smartrecruiters | unknown
+# id: the company's identifier on that ATS (from its job-board URL)
+# verified: true only after the endpoint returned real postings and a fixture was saved
+#
+# Most entries below are candidates to verify in Milestone 1.
+
+- name: Foodics
+  website: https://www.foodics.com
+  ats: workable
+  id: foodics
+  verified: false   # careers page confirmed on Workable; API response not yet checked
+
+- name: Tabby
+  website: https://tabby.ai
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Tamara
+  website: https://tamara.co
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Salla
+  website: https://salla.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Zid
+  website: https://zid.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Lean Technologies
+  website: https://leantech.me
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Jahez
+  website: https://www.jahez.net
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Unifonic
+  website: https://www.unifonic.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Mozn
+  website: https://mozn.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Lucidya
+  website: https://lucidya.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Rewaa
+  website: https://www.rewaatech.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Sary
+  website: https://sary.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Nana
+  website: https://nana.sa
+  ats: unknown
+  id: null
+  verified: false
