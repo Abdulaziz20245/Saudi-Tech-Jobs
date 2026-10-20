@@ -13,6 +13,10 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - `collector.discover` CLI to find companies' job boards and save real fixtures
 - 36 tests (fixtures, no network), ruff + mypy strict, CI on Postgres, daily pipeline workflow
 - `docker-compose.yml` for local Postgres
+
+### Fixed
+- Workable jobs open in several cities were stored once with only the first city; they are now
+  merged into one posting listing every city (found on Salla's real board)
 - Project documentation: PRD, architecture, data sources, extraction and evals, decisions,
   privacy and ethics, testing, deployment, roadmap
 - Design brief for the website

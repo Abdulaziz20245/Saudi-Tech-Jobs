@@ -9,8 +9,9 @@ Status key: [ ] not started, [~] in progress, [x] done
 - [x] KSA location filter (English + Arabic place names, country codes)
 - [x] `collector.discover` CLI to find a company's job board and save real fixtures
 - [~] Daily GitHub Actions run (workflow ready; enable after production DB exists)
-- [ ] Verify ATS endpoints against live data and build `data/companies.yaml` (target 40+)
-- [ ] Replace synthetic fixtures with real saved responses
+- [~] Verify ATS endpoints against live data and build `data/companies.yaml` (target 40+;
+  3 verified, first real run stored 65 KSA postings on 2026-10-20)
+- [~] Real saved responses as fixtures (Salla, Foodics on Workable; Tamara on Greenhouse)
 - [ ] Frontend scaffold (Vite) — with Milestone 3
 
 ## Milestone 2: Extraction you can measure

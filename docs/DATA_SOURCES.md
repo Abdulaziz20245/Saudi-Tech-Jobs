@@ -10,7 +10,7 @@ keeps us clean legally and gives structured data.
 | Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true` | No salary or employment type |
 | Lever | `https://api.lever.co/v0/postings/{slug}?mode=json` | EU variant `api.eu.lever.co`; ~1 req/s |
 | Ashby | `https://api.ashbyhq.com/posting-api/job-board/{name}?includeCompensation=true` | Salary when the employer opts in |
-| Workable | `https://apply.workable.com/api/v1/widget/accounts/{account}` | e.g. Foodics → `foodics` |
+| Workable | `https://apply.workable.com/api/v1/widget/accounts/{account}` | One entry per city for multi-city jobs (same shortcode); merged |
 | SmartRecruiters | `https://api.smartrecruiters.com/v1/companies/{id}/postings` | Paginated |
 
 Endpoints are from vendor docs and public references; verify each one against a real company

@@ -71,6 +71,7 @@ def main() -> int:
     parser.add_argument("--verified-only", action="store_true")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(message)s")
+    logging.getLogger("httpx").setLevel(logging.WARNING)
 
     settings = get_settings()
     companies = load_companies(settings.companies_file, include_unverified=not args.verified_only)

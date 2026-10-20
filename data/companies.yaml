@@ -9,25 +9,25 @@
   website: https://www.foodics.com
   ats: workable
   id: foodics
-  verified: false   # careers page confirmed on Workable; API response not yet checked
+  verified: true    # 2026-10-20: 30 jobs, 21 in KSA
 
 - name: Tabby
   website: https://tabby.ai
-  ats: unknown
+  ats: unknown      # discover found no public board; check careers page links
   id: null
   verified: false
 
 - name: Tamara
   website: https://tamara.co
-  ats: unknown
-  id: null
-  verified: false
+  ats: greenhouse
+  id: tamara
+  verified: true    # 2026-10-20: 43 jobs, 15 in KSA
 
 - name: Salla
   website: https://salla.com
-  ats: unknown
-  id: null
-  verified: false
+  ats: workable
+  id: salla
+  verified: true    # 2026-10-20: 39 jobs, 39 in KSA
 
 - name: Zid
   website: https://zid.sa
@@ -79,6 +79,134 @@
 
 - name: Nana
   website: https://nana.sa
+  ats: unknown
+  id: null
+  verified: false
+
+# Candidates added 2026-10-20 (not yet checked)
+
+- name: Ninja
+  website: https://ninja.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: HALA
+  website: https://hala.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Tweeq
+  website: https://tweeq.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Barq
+  website: https://barq.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Geidea
+  website: https://geidea.net
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Moyasar
+  website: https://moyasar.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: HyperPay
+  website: https://hyperpay.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Tap Payments
+  website: https://tap.company
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Lendo
+  website: https://lendo.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Rasan
+  website: https://rasan.co
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Floward
+  website: https://floward.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Mrsool
+  website: https://mrsool.co
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Calo
+  website: https://calo.app
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Noon
+  website: https://noon.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Careem
+  website: https://careem.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Elm
+  website: https://elm.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Thiqah
+  website: https://thiqah.sa
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Classera
+  website: https://classera.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Noon Academy
+  website: https://noonacademy.com
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Erad
+  website: https://erad.co
+  ats: unknown
+  id: null
+  verified: false
+
+- name: Abwab
+  website: https://abwab.ai
   ats: unknown
   id: null
   verified: false

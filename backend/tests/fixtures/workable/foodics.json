@@ -1,0 +1,876 @@
+{
+  "name": "Foodics",
+  "description": "<p><strong>We Are Foodics. </strong>Your number one source for all restaurant management needs and your gateway to the F&amp;B &amp; Fintech ecosystem. We are dedicated to providing you with the best industry solutions to help you manage your business and grow seamlessly. Foodics POS solution is a cloud-based software compatible with all platforms in multiple languages (Arabic, English, and French). Throughout the years, we have updated and improved this solution for the ultimate streamlining of restaurant operations.</p><p>Founded in 2014 and headquartered in Riyadh,Saudi Arabia. Foodics is currently available across the MENA region, with offices based in Saudi Arabia, United Arab Emirates, Jordan, Egypt and Kuwait with a culture retaining talents and promoting creativity and efficiency.</p><p>We are expanding<strong> internationally</strong> and look forward to our next new branch soon.</p><p><br></p><p><strong>Vision</strong></p><p>Our aim is to become the one-stop-shop solution for the restaurant industry and their door to the ecosystem.<br><br></p><p><strong>Mission</strong></p><p>Empowering restaurant owners with the technology they need to operate their business, get in control of their operations, and unleash their potential.</p>",
+  "jobs": [
+    {
+      "title": "AI Engineer",
+      "shortcode": "9BDF0B39E6",
+      "code": "5275",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Technology",
+      "url": "https://apply.workable.com/j/9BDF0B39E6",
+      "shortlink": "https://apply.workable.com/j/9BDF0B39E6",
+      "application_url": "https://apply.workable.com/j/9BDF0B39E6/apply",
+      "published_on": "2026-09-29",
+      "created_at": "2026-08-06",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Director",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>You will construct agentic AI architecture, leveraging large language models to orchestrate planning, execution, and tool interactions with minimal supervision. Working within a compact engineering team, you will build the core foundational infrastructure, spanning microservices, integration protocols, state management, tracing, and eval harnesses, ensuring systems are production-ready, reliable, and scalable.</p><p>This hands-on backend software engineering position focuses primarily on coding, testing, and system diagnostics. While prompt design is incorporated into the workflow, complex architectural challenges reside within the underlying infrastructure.</p><p>We welcome applicants across diverse seniority levels. Given that production-grade agentic engineering remains an emerging discipline, candidates bring varied expertise; candidate capability determines final level placement. Opportunities exist for early-career developers through veteran software architects.</p><p>Engineering excellence remains mandatory across all levels. Junior engineers pair directly with senior mentors to own production components within three months, while senior engineers drive technical standards and architectural vision.</p><p><strong>What You Will Do ❓</strong></p><ul><li>Architect and maintain agent infrastructure, including orchestration logic, session handling, state management, and reliable backend service interfaces.</li><li>Design robust tool integrations and MCP servers featuring precise boundary definitions and comprehensive error recovery handlers.</li><li>Implement end-to-end tracing and observability for model calls, retrieval, and tool executions adhering to OpenTelemetry GenAI standards.</li><li>Construct evaluation suites, benchmarks, and regression tests to validate model iterations and systematically capture production edge cases.</li><li>Perform deep-dive root cause analysis on runtime failures, loops, context degradation, or hallucinated outputs to strengthen system resiliency.</li><li>Enforce runtime guardrails, cost thresholds, RBAC permissions, output validation schemas, and human-in-the-loop validation triggers.</li><li>Monitor industry advancements, emerging AI research, and architectural patterns, sharing technical insights across the engineering organization.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><h3>Essential</h3><ul><li>Deep software engineering expertise in a modern programming language, prioritizing algorithmic depth over superficial multi-language breadth.</li><li>Strong computer science foundations in data structures, algorithms, memory allocation, and concurrent execution patterns.</li><li>Practical experience with backend infrastructure: REST/gRPC APIs, relational/non-relational databases, caching tiers, message queues, and distributed systems resilience.</li><li>Proficiency with Git, automated testing frameworks, CI/CD pipelines, and writing clean, maintainable software.</li><li>Comprehensive mental model of LLM mechanics: context window constraints, tokenization, function calling protocols, non-deterministic behaviors, and hallucination management.</li><li>Demonstrated history of delivering full-lifecycle technical projects across production environments, academic work, open source, or side initiatives.</li><li>Methodical debugging skills with the ability to articulate systematic troubleshooting methodologies.</li><li>Strong technical documentation and written communication skills to articulate complex distributed system behaviors.</li></ul><p>Expectations by Seniority Level</p><p>Core requirements apply universally, with ownership and operational scale adjusting based on candidate seniority.</p><ul><li>Early Career: Focuses on technical foundations, algorithmic problem-solving, and curiosity. Prior agentic experience is not required; mentorship is provided to expand scope over well-defined modules.</li><li>Mid-Level: Owns sub-systems end-to-end, translates ambiguous requirements into robust architecture, and demonstrates a proven track record of shipping and maintaining production services.</li><li>Senior Level: Drives strategic architectural direction, possesses hands-on experience scaling non-deterministic systems, elevates team-wide engineering practices, and actively challenges technical assumptions.</li></ul><h3>Nice to Have</h3><ul><li>Hands-on experience developing application prototypes integrated with LLM APIs.</li><li>Familiarity with Model Context Protocol (MCP) or custom tool integrations.</li><li>Understanding of vector database indexing, embedding generation, and retrieval pipelines (RAG).</li><li>Experience with cloud infrastructure (AWS preferred), containerization (Docker/Kubernetes), telemetry, or IaC tooling.</li><li>Knowledge of GenAI security paradigms, prompt injection mitigation, and threat modeling.</li><li>Active open-source contributions or community engagement.</li></ul><h3>Out of Scope</h3><ul><li>Extensive experience with specific agent frameworks, given the nascent nature of the ecosystem.</li><li>Academic AI research background, specialized ML degrees, or mathematical derivation of backpropagation.</li><li>Deep expertise in base model training or fine-tuning workflows.</li><li>Flawless portfolio presentations; emphasis is placed on technical depth and problem-solving reasoning.</li><li>Strictly conventional career trajectories; non-traditional and self-taught engineering backgrounds are evaluated equally.</li></ul><p>Technical Standards &amp; Architecture</p><p>Our engineering environment adheres to industry standards and operational frameworks, with continuous learning embedded into the engineering onboarding process.</p><ul><li>Model Context Protocol (MCP): Open standard managed via the Linux Foundation for integrating models with tool services and data stores.</li><li>OpenTelemetry GenAI Conventions: Standardized instrumentation schemas for tracking model execution traces, step transitions, and tool invocations.</li><li>OWASP GenAI &amp; Agentic Security Guidelines: Threat modeling standards emphasizing containment strategies, least-privilege tooling, strict input sanitization, and authorization gates for critical actions.</li><li>Eval-Driven Development: Mandatory evaluation validation prior to shipping behavioral changes, relying on internal domain-specific test harnesses rather than external benchmark metrics.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-office, and hybrid work setups.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p><br><br></p>"
+    },
+    {
+      "title": "Anti Fraud Specialist",
+      "shortcode": "8B8A457674",
+      "code": "2130",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Regulatory & Government Affairs",
+      "url": "https://apply.workable.com/j/8B8A457674",
+      "shortlink": "https://apply.workable.com/j/8B8A457674",
+      "application_url": "https://apply.workable.com/j/8B8A457674/apply",
+      "published_on": "2026-09-21",
+      "created_at": "2025-03-23",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Mid-Senior level",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<h3><strong>Who Are We❓</strong></h3><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>The Anti-Fraud Officer will be part of the Anti-Financial Crime function in charge of overseeing fraud risk in the company, covering Anti-Money Laundering (AML), Combating Terrorism Financing (CTF) and Anti-Fraud (AF). This role should adhere and implement all SAMA&nbsp; regulations in these aspects and ensure the development and implementation of related policies, procedures, roles, monitoring, systems/tools and reporting. <br> </p><p><strong>What Will You Do❓</strong></p><ul><li>Contribute to the preparation of the Anti Fraud policy in line with SAMA (specific to Payment Services) regulations and established rules or principles.</li><li>Contribute into documenting Anti-Fraud policy/manual for the company in accordance with SAMA (specific to Payment Services) and the Anti-Fraud Law.</li><li> Participation in documenting detailed procedure manuals covering all processes and reporting requirements covering Anti-Fraud.</li><li>Execute all required processes that are primarily designed to manage fraud risk or comply with regulations, policies and procedures including conducting the required investigations.<br> Communicate to related functions/staff the new procedures and regulations, and ensure continuous follow up for implementation including system requirements. </li><li>Participate in the preparation of responses to all SAMA (specific to Payment Services) circulars and requests relating to fraud-related cases and preparation of the required information in the proper form and timeframe. </li><li>Maintain logs/ records of communications, circulars and correspondence (receive, circulate and follow up on action taken, send and follow up on replies).</li><li>Performing the Client validation and fraud checks requirements and the validation reviews in the onboarding and revalidation of clients’ acceptance.</li><li>Contribute in the implementation of tools/systems for monitoring clients and transactions against lists of sanctioned persons, entities, or countries issued by the government/ competent authorities and pre-defined scenarios.</li><li>Participate in the implementation of Anti-fraud detection system and setting up pre-defined scenarios.</li><li>Contribute in updating the fraud risk related monitoring scenarios. </li><li>Performing the oversight of Operational execution of fraud risk activity and ensure effective controls testing are in place.</li><li>Regularly assess the efficiency and effectiveness of control systems and recommend needed improvements.</li><li>Conducting in coordination with the Financial Crime Manager the fraud risk related risk assessments for entities/processes, new products, services and initiatives.</li><li>Monitor fraud alerts and suspicious activities generated through fraud monitoring systems and other reporting channels.<br> </li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>2-3 years of experience in a relevant role</li><li>Bachelor's degree in business, finance, economics, law or other related Field- Masters preferred</li><li>Strong Knowledge of KSA regulatory compliance in financial and payment services</li><li>Previous and strong experience in the area of payments, Anti-Fraud, Anti-Bribery and Corruption within financial services industries.</li><li> Knowledge in the SAMA (specific to Payment Services) regulatory framework.</li><li>Willingness to expand technical knowledge in a broad range of projects.</li><li>Capability to analyze and assess programs, policies and operational needs.</li><li>Fluency in Arabic and English (verbal and written)</li><li>Strong MS Office (Word, Excel and PowerPoint)</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul>"
+    },
+    {
+      "title": "Anti Money laundering Specialist",
+      "shortcode": "78F8554CB7",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Regulatory & Government Affairs",
+      "url": "https://apply.workable.com/j/78F8554CB7",
+      "shortlink": "https://apply.workable.com/j/78F8554CB7",
+      "application_url": "https://apply.workable.com/j/78F8554CB7/apply",
+      "published_on": "2026-10-07",
+      "created_at": "2025-11-23",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Entry level",
+      "function": "Other",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p><strong>Who Are We❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>Support the AML Lead in conducting daily AML monitoring, customer due diligence, investigations, and regulatory reporting, ensuring compliance with SAMA and FIU requirements.</p><p></p><p><strong>Key Responsibilities:<br><br>CDD &amp; Onboarding</strong></p><ul><li>Perform KYC/KYB checks during onboarding and ensure completeness of company documents.</li></ul><ul><li>Validate CR, National Address, MCC, Beneficial Ownership, and IBAN ownership.</li></ul><ul><li>Perform sanctions, PEP, and adverse media screening.<br><strong>EDD &amp; High-Risk Reviews</strong></li><li>Conduct Enhanced Due Diligence on high-risk merchants.</li><li>Review unusual patterns in merchant profiles, including transaction volatility, abnormal MCC behavior, and cash-like activities.<br><strong>Monitoring &amp; Investigations</strong></li><li>Approve high-risk clients (e.g., cash-intensive merchants, unusual MCCs, high-volume cross-border activities)<br><strong>Regulatory Engagement</strong></li><li>Act as the primary point of contact with SAMA and FIU regarding AML matters.</li><li>Coordinate regulatory inspections, information requests, and remediation action plans.<strong><br>Training &amp; Awareness</strong></li><li>Review AML alerts, analyze customer behavior, and escalate suspicious activity to AML Lead.</li><li>Conduct initial AML case investigations and prepare case summaries.</li><li>Assist in preparing STRs for submission.<strong><br>Regulatory Reporting</strong></li><li>Maintain AML logs, investigation records, and supporting evidence.</li><li>Ensure timely documentation in the case management system. <br><strong>Training &amp; Awareness</strong></li><li>Support the delivery of AML training to new joiners and operational teams.</li></ul><p></p><p><strong>What Are We Looking For❓ </strong></p><ul><li> Bachelor’s degree in finance, Law, Business, or related field.</li><li>1–2 years' experience in AML, fraud, or compliance.</li><li>Strong analytical skills and working knowledge of AML systems.</li><li>Knowledge of SAMA AML requirements and FIU STR procedures is preferred</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "BCM Officer",
+      "shortcode": "126A1EE982",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Regulatory & Government Affairs",
+      "url": "https://apply.workable.com/j/126A1EE982",
+      "shortlink": "https://apply.workable.com/j/126A1EE982",
+      "application_url": "https://apply.workable.com/j/126A1EE982/apply",
+      "published_on": "2026-09-14",
+      "created_at": "2026-09-14",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Entry level",
+      "function": "Other",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p><strong>Who Are We❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>We’re looking for a Business Continuity Management (BCM) Specialist with a strong IT and</p><p>Disaster Recovery (DR) background to support, maintain, and enhance our BCM and IT resilience</p><p>framework. In this role, you’ll play a key part in ensuring the organization’s ability to respond to</p><p>and recover from disruptions by coordinating DR activities, supporting BCM lifecycle processes,</p><p>and working closely with IT, Information Security, and business stakeholders.</p><p>You’ll be involved in DR planning and testing, business impact analysis, risk assessments, and</p><p>regulatory compliance, while acting as a bridge between technical teams and business units to</p><p>ensure resilience requirements are effectively implemented and maintained.</p><p></p><p><strong>Key Responsibilities:<br></strong></p><ul><li>Support the implementation and maintenance of the Business Continuity Management (BCM) and IT Disaster Recovery (DR) frameworks.<br></li></ul><ul><li>Coordinate and support DR planning, testing, and execution in collaboration with IT and technology teams.<br></li></ul><ul><li>Assist in conducting Business Impact Analysis (BIA) and risk assessments across business and IT functions.<br></li><li>Monitor and track BCM and DR action plans, ensuring timely closure and reporting to management.<br></li><li>Support the development, review, and maintenance of BCP and DR documentation, <br>including recovery strategies and procedures.</li><li>Participate in BCM and DR tests, exercises, and simulations, and support post-test<br></li><li>reviews and improvement actions.<br></li><li>Liaise with internal stakeholders to ensure BCM and DR requirements are clearly understood and implemented.<br></li><li>Support regulatory, audit, and internal assessment requirements related to BCM and IT resilience.<br></li><li>Prepare BCM and DR reports, dashboards, and metrics for management and committee reporting.<br></li></ul><p><strong>What Are We Looking For❓ </strong></p><ul><li> 2+ Years of experience in Business Continuity Management, IT Disaster Recovery,<br>or IT Risk/Resilience roles.<br></li><li>Strong understanding of DR technologies, IT infrastructure, and application recovery <br>concepts.<br></li><li>Good knowledge of BCM lifecycle activities including BIA, risk assessment, strategy<br>development, and testing.<br></li><li>Familiarity with regulatory requirements (e.g., SAMA) related to BCM, DR, and<br>operational resilience.<br></li><li>Good skills in Microsoft Office tools (Excel, Word, PowerPoint).<br></li><li>Ability to work in a fast-paced, evolving environment and manage multiple priorities.<br></li><li>Good command of English (Arabic is a strong advantage).<br><br><br></li><li><strong>Important note</strong>: This role is not open to fresh graduates and requires hands-on experience in<br>BCM and IT/DR domains.<br><br></li></ul><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "CEO Office Manager- Riyadh",
+      "shortcode": "26B9363EE8",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "CEO Office",
+      "url": "https://apply.workable.com/j/26B9363EE8",
+      "shortlink": "https://apply.workable.com/j/26B9363EE8",
+      "application_url": "https://apply.workable.com/j/26B9363EE8/apply",
+      "published_on": "2026-08-13",
+      "created_at": "2026-02-23",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Ar Riyāḍ",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Ar Riyāḍ",
+          "hidden": false
+        }
+      ],
+      "description": "<h3> </h3><p><strong>Who Are We ❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>Hi all! We are looking for a CEO Office Manager to perform various tasks and activities working closely with our CEO, including managing calendars, making travel arrangements, and preparing expense reports. To be successful in this role, you should be well-organized, have great time management skills and be able to act without guidance. Ultimately, you will contribute to the efficiency of our business by providing personalized and timely support to the CEO and C-suit as needed. </p><p><strong>If this opportunity excites you, hop on and apply now!</strong></p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Manage the CEO's schedule, including scheduling meetings and planning travel</li><li>Act as the point of contact among executives, employees, clients, and other external partners</li><li>Scheduling board meetings, handling logistics of board meetings, sending materials for review before the meetings, taking and distributing notes, and fielding general queries from board members</li><li>Manage information flow in a timely and accurate manner</li><li>Manage CEO’s calendars and set up meetings</li><li>Coordinate conference calls, transcribe notes and type correspondence/meeting minutes.</li><li>Make travel and accommodation arrangements.</li><li>Format information for internal and external communication – memos, emails, presentations, reports</li><li>Respond promptly to CEO’s queries</li><li>Facilitate internal communication (e.g., distribute information and schedule presentations</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>Bachelor’s degree in Business Administration, Management, Finance, or related field (MBA preferred)</li><li>3–5 years of relevant experience in business management, strategy, or consulting</li><li>Experience in a top-tier consulting firm is highly preferred</li><li>Proven experience working with senior leadership or executive teams</li><li>Strong analytical and problem-solving skills</li><li>Excellent communication and presentation abilities</li><li>High level of business acumen</li><li>Ability to manage multiple priorities in a fast-paced environment</li><li>Strong stakeholder management skills</li><li>High level of discretion and professionalism</li><li>Fluency in Arabic and English (written and spoken) is mandatory</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p>"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "shortcode": "C4B869121F",
+      "code": "1909,1910, 1911,1912, 1913",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/C4B869121F",
+      "shortlink": "https://apply.workable.com/j/C4B869121F",
+      "application_url": "https://apply.workable.com/j/C4B869121F/apply",
+      "published_on": "2026-10-12",
+      "created_at": "2025-12-31",
+      "country": "Saudi Arabia",
+      "city": "Al Khobar",
+      "state": "Eastern Province",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Al Khobar",
+          "region": "Eastern Province",
+          "hidden": false
+        }
+      ],
+      "description": "<h3> <strong>Who Are We❓</strong><br> </h3><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡 </strong><br>We are looking for those who are excited to be part of our team in the Center of Excellence! As a Customer Support Specialist, you will handle clients’ inquiries and requests regarding Foodics products and overall incoming communication channels</p><p>In short, you will be our first line of support for customers, with the primary goal of providing optimum service at all times!</p><p><strong><br>What Will You Do❓</strong><br></p><ul><li>Handle and provide the correct answers for client inquiries received at the center of excellence.</li><li>Escalate and follow up with concerned teams with Foodics in case any support is needed from their side until reaching case resolution.</li><li>Document communication logs into our CRM and ticketing systems with accuracy.</li><li>Train clients on using Foodics products using multiple virtual channels.</li><li>Report daily events to team leaders and highlight areas where more attention may be needed.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>Bachelor’s degree in any major. (Preferred)</li><li>0 - 1 year of experience in call center or customer service roles</li><li>High fluency in the English language, especially speaking and communicating verbally (Must)</li><li>Excellent typing skills (Must)</li><li>Flexible to work in different shifts in Khobar - On-site (Must)</li><li>Comfortable and skilled in delivering training (Preferred)</li><li>Willing to work hard and with autonomy to handle customer cases till case resolution</li><li>Is naturally strong in communication, with great ability for problem-solving</li><li>Comfortable in conducting routine tasks while maintaining quality standards.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul>"
+    },
+    {
+      "title": "Customer Support Specialist",
+      "shortcode": "78090B0EF3",
+      "code": "1873, 1874, 1893",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/78090B0EF3",
+      "shortlink": "https://apply.workable.com/j/78090B0EF3",
+      "application_url": "https://apply.workable.com/j/78090B0EF3/apply",
+      "published_on": "2026-10-05",
+      "created_at": "2026-03-10",
+      "country": "Egypt",
+      "city": "Cairo",
+      "state": "Cairo Governorate",
+      "education": "Bachelor's Degree",
+      "experience": "Entry level",
+      "function": "Customer Service",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Egypt",
+          "countryCode": "EG",
+          "city": "Cairo",
+          "region": "Cairo Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓<br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡<br></strong></p><p>Hi all! We are looking for those who are excited to be part of our team in the Center of Excellence! As a Customer Support Specialist, you will handle clients’ inquiries and questions regarding Foodics product’s overall incoming communication channels and conduct outbound communication with our customers to measure satisfaction.</p><p><strong>What Will You Do❓</strong></p><ul> <li>Handle client inquiries received at the center of excellence.</li> <li>Follow up with customers’ inquiries, conduct satisfaction measurement calls, and perform other outbound tasks.</li> <li>Document communication logs into our CRM and ticketing systems with accuracy.</li> <li>Escalate and follow up with concerned teams with Foodics in case of any support needed from their side until reaching case resolution. </li> <li>Train clients on using Foodics products using multiple virtual channels. </li> <li>Report daily events to team leaders and highlight areas where more attention may be needed. </li> </ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul> <li>Bachelor’s degree in any major. (Preferred)</li> <li>0 – 1 years of experience in call center or customer service roles</li> <li>Very Good in English language, especially speaking and communicating verbally</li> <li>Flexible to work in different shifts in Egypt - On-site (Must)</li> <li>Comfortable and skilled in delivering training (Preferred)</li> <li>Willing to work hard and with autonomy to handle customer cases till case resolution</li> <li>Is naturally strong in communication, with great ability for problem-solving</li> <li>Comfortable in conducting routine tasks while maintaining quality standards.</li> </ul><p><strong>Who Will Excel❓</strong></p><ul> <li>Comfortable and skilled in delivering training.</li> <li>Previous experience in SaaS/ Tech or F&amp;B industry.</li> </ul><p><em>Important Hashtags: #High_Volume_of_Calls #Shift_Based_Job</em></p><p><strong>What We Offer You❗</strong><br>We believe you will love working at Foodics!</p><ul><ul> <li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li> <li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li> <li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li> <li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li> </ul></ul><p></p>"
+    },
+    {
+      "title": "Engineering Manager - ERP",
+      "shortcode": "9FCD19D689",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": null,
+      "url": "https://apply.workable.com/j/9FCD19D689",
+      "shortlink": "https://apply.workable.com/j/9FCD19D689",
+      "application_url": "https://apply.workable.com/j/9FCD19D689/apply",
+      "published_on": "2026-09-21",
+      "created_at": "2026-09-20",
+      "country": "Jordan",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "education": "",
+      "experience": "Mid-Senior level",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Jordan",
+          "countryCode": "JO",
+          "city": "Amman",
+          "region": "Amman Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p><strong>The Job in a Nutshell💡</strong></p><p>Foodics powers thousands of restaurants across the region — point of sale, payments, inventory, and the operational backbone underneath. We're building our own ERP platform: the system of record that sits under everything a merchant runs on Foodics.</p><p>This is an unusual EM role, so we'll be blunt about it. Today the team has three engineers and there is no team to manage. You will spend most of your time writing code — building the core platform and its integrations into inventory, payments and the POS, shoulder to shoulder with the other engineers.</p><p>What you're really being hired for is the second act. As the product matures into a real line of business at Foodics, you're the person who builds the team around it — hiring, structure, process, the whole thing. We want that team built by someone who wrote the first version of the system, not someone who inherited it.</p><p>If you're looking to step away from the keyboard, this isn't the role. If you want to build something from zero and then build the team that owns it, it is.</p><p><strong>What Will You Do❓</strong></p><ul><li>Write production code as a core contributor, not as a manager who occasionally picks up a ticket</li><li>Own significant parts of the system end to end: core modules, the transactional foundation, regulatory compliance, integration surface</li><li>Make the architectural calls that determine whether this platform survives five years and be accountable for them</li><li>Set the engineering bar by example: code review standards, testing discipline, how we use AI tooling and where we don't trust it</li><li>Work directly with the PM and our domain experts to turn business requirements into a system</li><li>Own hiring: define the roles, run the loop, make the calls</li><li>Grow the engineers already here into people who can run pieces of this independently</li><li>Introduce process at the point it's needed and not before</li><li>Carry the product through its handover into the core business, with the team intact</li></ul><p><strong>Requirements</strong></p><p><strong>What Are We Looking For❓</strong></p><ul><li>7+ years engineering, with time spent leading — as an EM, tech lead, or founding engineer</li><li>Currently hands-on. Coding regularly in your present role, not two years removed from it</li><li>Meaningful experience building ERP or accounting systems — you understand double-entry, period close, and why a ledger isn't just another table</li><li>Strong full stack. Comfortable from schema to screen</li><li>AI-native way of working. Agents and LLM tooling are part of your daily practice, and you have judgment about where their output holds up and where it doesn't</li><li>Built something from zero in a small team with unclear requirements and short cycles</li><li>Genuinely wants both halves of this job — the building now, and the team-building later</li><li>Able to work substantially within GMT+3 hours</li></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Built or operated a ledger, double-entry engine, or transaction-processing system at scale</li><li>Fintech, banking, payments or financial services background</li><li>Hired and grown an engineering team from the first few people</li><li>Familiarity with ERP platforms (ERPNext, Odoo, NetSuite, SAP)</li><li>ZATCA e-invoicing or comparable regional regulatory work</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company</li></ul>"
+    },
+    {
+      "title": "Global Cybersecurity GRC Manager",
+      "shortcode": "6B8790DE1A",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "Regulatory & Government Affairs",
+      "url": "https://apply.workable.com/j/6B8790DE1A",
+      "shortlink": "https://apply.workable.com/j/6B8790DE1A",
+      "application_url": "https://apply.workable.com/j/6B8790DE1A/apply",
+      "published_on": "2026-08-26",
+      "created_at": "2026-08-26",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓</p><p>We Are Foodics!&nbsp;a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell</strong>💡</p><p>We are looking for a Global Cybersecurity GRC Manager to manage and coordinate cybersecurity governance, risk, and compliance activities across the Foodics Group under the direction of the CISO. You will be responsible for the day-to-day operation of the GRC program translating cybersecurity frameworks, regulatory obligations, and business risks into practical controls, clear ownership, measurable remediation plans, and decision-ready reporting. This is a high-visibility, cross-functional role working closely with Cybersecurity, Technology, Product, Legal, Privacy, Internal Audit, and business teams across the group, while supporting Foodics Pay cybersecurity compliance activities where required.</p><p></p><p><strong>What you will do</strong>💡</p><ul><li>Manage and coordinate the group cybersecurity governance, risk, and compliance program under the direction of the CISO, including day-to-day GRC activities, priorities, operating cadence, and continuous improvement initiatives.</li><li>Conduct, coordinate, and track gap assessments against ISO 27001, SOC 2, NCA ECC, SAMA CSF, KSA PDPL, and other applicable cybersecurity, privacy, regulatory, and contractual requirements.</li><li>Translate regulatory and framework requirements into practical controls, implementation actions, accountable owners, target dates, and measurable evidence requirements.</li><li>Maintain the cybersecurity policy framework, including policies, standards, procedures, control owners, supporting evidence, review cycles, approved exceptions, and related governance records.</li><li>Own and maintain the cybersecurity risk register, facilitate risk assessments, and drive follow-up on treatment plans, risk acceptance, and overdue actions with business and technology owners.</li><li>Monitor control implementation and remediation progress, challenge weak or incomplete responses, and escalate material risks, recurring gaps, and overdue actions when necessary.</li><li>Coordinate internal audits, external audits, customer cybersecurity due diligence, certification activities, and readiness assessments, ensuring requests and evidence are handled consistently and efficiently.</li><li>Support Foodics cybersecurity compliance activities where required, including control mapping, evidence coordination, remediation tracking, audit support, and management reporting.</li><li>Prepare cybersecurity GRC dashboards, KPIs, KRIs, risk summaries, compliance status reports, and materials for management and cybersecurity governance committees.</li><li>Partner with control owners across Technology, Product, Operations, HR, Legal, Privacy, Procurement, and other functions to embed cybersecurity requirements into business processes and initiatives.</li><li>Maintain a clear compliance calendar and ensure recurring assessments, reviews, evidence collection, policy updates, risk reviews, and audit commitments are completed within agreed timelines.</li><li>Improve the efficiency and quality of the GRC program through standardized templates, control libraries, automation, tooling, and stronger evidence-management practices.</li></ul><p></p><p><strong>What Are We Looking For</strong>❓</p><p><strong>Required</strong></p><ul><li>10+ years of professional experience in cybersecurity governance, risk, compliance, audit, or a closely related field, with demonstrated experience managing enterprise GRC activities and working with senior cybersecurity leadership.</li><li>Strong hands-on knowledge of ISO 27001 and SOC 2, with practical experience conducting gap assessments, mapping controls, collecting evidence, and driving remediation to closure.</li><li>Good working knowledge of Saudi cybersecurity and privacy requirements, particularly NCA ECC and KSA PDPL, with the ability to interpret requirements and translate them into actionable controls.</li><li>Demonstrated experience owning or managing cybersecurity risk registers, risk assessments, treatment plans, risk acceptance, exceptions, and management escalation.</li><li>Experience maintaining cybersecurity policies, standards, procedures, control libraries, control ownership, evidence repositories, and compliance documentation.</li><li>Proven ability to coordinate internal and external audits, manage evidence requests, respond to customer security assessments, and support certification or assurance readiness.</li><li>Strong analytical skills and the ability to turn complex risk and compliance information into clear dashboards, executive summaries, and decision-ready committee reporting.</li><li>Stakeholder management skills, with the confidence to challenge control owners constructively, drive accountability, and follow actions through to completion.</li><li>Strong written and verbal communication in English, including the ability to write clear policies, risk statements, assessment findings, remediation actions, and management reports.</li><li>Bachelor’s degree in Cybersecurity, Information Security, Information Technology, Computer Science, Risk Management, or a related discipline, or equivalent relevant professional experience.</li></ul><p><strong>Nice to have</strong></p><ul><li>Experience working in FinTech, payments, SaaS, or another regulated and technology-driven environment.</li><li>Experience with SAMA cybersecurity requirements or supporting cybersecurity compliance activities for a regulated payment or financial-services entity.</li><li>Professional certifications such as ISO 27001 Lead Implementer / Lead Auditor, CISM, CRISC, CISA, CISSP, or equivalent.</li><li>Experience with PCI DSS, third-party cybersecurity risk management, privacy compliance, or other regional and international security frameworks.</li><li>Hands-on experience with GRC platforms, evidence automation, compliance tooling, or building structured control and risk reporting workflows.</li><li>Experience operating across multiple business entities, countries, or regulatory environments.</li><li>Arabic language skills for engaging with stakeholders, regulators, and documentation.</li></ul><p></p><p><strong>What We Offer You</strong>❗</p><p>We believe you will love working at Foodics!</p><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul>"
+    },
+    {
+      "title": "Installation & Delivery Specialist",
+      "shortcode": "B123B81FEB",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/B123B81FEB",
+      "shortlink": "https://apply.workable.com/j/B123B81FEB",
+      "application_url": "https://apply.workable.com/j/B123B81FEB/apply",
+      "published_on": "2026-10-17",
+      "created_at": "2026-10-17",
+      "country": "Saudi Arabia",
+      "city": "Taif",
+      "state": "Makkah Province",
+      "education": "Vocational",
+      "experience": "Associate",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Taif",
+          "region": "Makkah Province",
+          "hidden": false
+        }
+      ],
+      "description": "<h3></h3><p><br><strong>Who Are We❓</strong><br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡<br></strong>Do you have a passion for hands-on problem solving? Do you love helping others by sharing your knowledge and expertise? Would you like to play a part in maintaining foodics customers’ trust and act as a skilled technician, problem solver and products guru? Then this opportunity if for you!</p><p>We are looking for smart individuals who have the rare mix of being tech passionate at the same time people-oriented, who would work with our customers in their own locations, handle foodics software installation and hardware setup, introducing and training our customers on the product, and solve on demand issues for them! If you believe you have that \"super power\", and is looking for an opportunity to join the next unicorn in the making, apply now!</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Deliver a word class service for new and existing clients </li><li>Handle customer needs at their locations for All Foodics Services, RMS, Pay, Online </li><li>Visit client's sites and ensuring quality of services </li><li>Handle location specific onboarding, installations, training, replacement and support requests </li><li>Work with other departments on clients' escalated tickets to deliver on demand support </li><li>Handle requests on-demand and within company's SLA </li><li>Work closely with outlet team and operations for clients on-demand and general support requests</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>Diploma/Bachelor's Degree in Networking, Computer Information System, Computer Science</li><li>0-2 years of experience, preferably with Information Technology / Software and/or Software-as-a-Service (SaaS) products experience</li><li>Knowledge in software, networking and POS systems</li><li>Comfortable with handling high volume of requests and calls received on our unified number.</li><li>Flexible to deliver work out of working hours/Public Holiday calls and visits</li><li>High problem-solving skills - able to identify problem and find solutions</li><li>Comfortable in English and Arabic language - communicating with confidence</li><li>Good command over MS Office Applications - Excel on specific</li><li>Knowledge of Networking, POS, ERP systems is a plus</li><li>Experience with escalation tickets handling and CRM is a plus</li><li>Must have a valid driving license and own a car to be used for business requirements such as installation, site visits, training requests, etc.</li></ul><p></p><p></p><p><strong>What We Offer You❗<br></strong>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul><p></p>"
+    },
+    {
+      "title": "Junior AI Forward Engineer, Foodics Online",
+      "shortcode": "C479F570CF",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": "Technology",
+      "url": "https://apply.workable.com/j/C479F570CF",
+      "shortlink": "https://apply.workable.com/j/C479F570CF",
+      "application_url": "https://apply.workable.com/j/C479F570CF/apply",
+      "published_on": "2026-10-15",
+      "created_at": "2026-10-01",
+      "country": "Jordan",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Jordan",
+          "countryCode": "JO",
+          "city": "Amman",
+          "region": "Amman Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>Foodics Online powers ordering apps for thousands of restaurants across the region, all built from one Flutter codebase. We’re looking for an early-career engineer who’s excited about AI and wants to ship it in a real product.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Build AI features in our ordering app, such as smart search, recommendations, reorder suggestions and menu translation</li><li>Use AI coding tools every day and help the team work faster with them</li><li>Write Flutter/Dart code, fix bugs, write tests and join code reviews</li><li>Learn alongside senior engineers who’ll mentor you</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>0–2 years of experience (internships and strong side projects count)</li><li>Some Flutter/Dart or mobile/frontend experience</li><li>You’ve built something with an LLM API, even a side project</li><li>Curiosity, eagerness to learn, and good English (Arabic is a plus)</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul>"
+    },
+    {
+      "title": "Key Account Manager",
+      "shortcode": "0B4C554151",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/0B4C554151",
+      "shortlink": "https://apply.workable.com/j/0B4C554151",
+      "application_url": "https://apply.workable.com/j/0B4C554151/apply",
+      "published_on": "2026-09-01",
+      "created_at": "2026-09-01",
+      "country": "Saudi Arabia",
+      "city": "Al Khobar",
+      "state": "Eastern Province",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Customer Service",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Al Khobar",
+          "region": "Eastern Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>As a Key Account Manager at Foodics, you will be at the forefront of our business, responsible for managing and nurturing relationships with our enterprise, key clients. You will play a pivotal role in driving revenue growth, ensuring client satisfaction, and expanding our market presence. This position requires a strategic mindset, strong interpersonal skills, and a passion for delivering exceptional service.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><ul><li>Build and maintain strong, long-lasting relationships with enterprise, key clients, understanding their business needs and objectives.</li><li>Proactively identify opportunities for upselling and cross-selling additional products or services to Foodics existing clients.</li><li>Gain a thorough understanding of assigned client’s needs, business objectives and processes to ensure that they successfully adopt and deploy Foodics</li><li>Drive revenue growth through effective account management, negotiation, and contract renewals.</li><li>Serve as the primary point of contact for key clients, advocating for their needs within the organization and ensuring their satisfaction.</li><li>Stay abreast of industry trends, market dynamics, and competitor activities to identify opportunities and mitigate risks.</li><li>Boost client retention through enhanced engagement, meeting their needs, exceeding expectations, and delivering exceptional service.</li><li>Gather client feedback and insights to inform product development, service enhancements, and process improvements.</li><li>Monitor key account metrics, analyze performance data, and prepare regular reports to track progress and identify areas for improvement.</li><li>Work closely with cross-functional teams including Sales, Onboarding, Marketing, and Product Development to align strategies and deliver exceptional value to clients.</li><li>Provide guidance and support to clients on product usage, troubleshooting, and best practices to maximize their ROI.</li><li>Be a voice for the customers internally and help senior leadership understand product concerns, shortcomings, and missing features that are important to the customers.</li></ul></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><ul><li>Bachelor's degree in Business, Marketing, or related field (MBA preferred).</li><li>Minimum 6+ years proven experience in key account management in F&amp;B, SaaS, ERP or Tech industries.</li><li>Demonstrated success in driving revenue growth and managing large enterprise accounts.</li><li>Strong communication, negotiation, and presentation skills.</li><li>Strategic thinker with the ability to analyze data, identify trends, and develop actionable insights.</li><li>Customer-focused mindset with a passion for delivering exceptional service.</li><li>Ability to thrive in a fast-paced, dynamic environment and manage multiple priorities effectively.</li><li>Fluency in Arabic and English.&nbsp;</li><li>Restaurant operations experience is a plus.</li></ul></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Previous experience in Restaurant Operations.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul>"
+    },
+    {
+      "title": "Lead Software Engineer - Financial Services",
+      "shortcode": "1E02F42336",
+      "code": "1046",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Technology",
+      "url": "https://apply.workable.com/j/1E02F42336",
+      "shortlink": "https://apply.workable.com/j/1E02F42336",
+      "application_url": "https://apply.workable.com/j/1E02F42336/apply",
+      "published_on": "2026-10-15",
+      "created_at": "2026-10-15",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "",
+      "experience": "Mid-Senior level",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Role in a Nutshell💡</strong></p><p>Foodics Financial Services builds the money products that help restaurants and merchants across the region run their businesses: payments, capital, and cashflow tools. We operate in a regulated environment (SAMA in Saudi Arabia, with expansion into the UAE), which means we care deeply about reliability, security, and correctness. We also move fast and ship products merchants actually feel.</p><p>We're looking for a Lead Engineer who thinks like a product owner, builds like a full-stack engineer, and works AI-first by default.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Own problems end to end. Take ambiguous business problems from discovery through design, build, launch, and iteration. Work across backend services, APIs, data, and frontend as needed.</li><li>Spot the gaps. Find what's missing or broken on both sides: a flow that confuses merchants, a reconciliation process that doesn't scale, a service that will fail under the next 10x of volume. Then drive the fix, even when nobody asked.</li><li>Shape product direction. Partner with Product, Design, Risk, and Compliance to define what we build and why. Challenge requirements, propose alternatives, and bring data to the conversation.</li><li>Set the technical bar. Lead architecture decisions for systems that handle real money: idempotency, consistency, auditability, security, and observability built in from day one.</li><li>Lead the AI-first shift. Use AI tools and agents to multiply your own output, and help the team adopt them well. Identify where AI can improve our products and our engineering workflow, and build it.</li><li>Multiply the team. Mentor senior and mid-level engineers, raise the quality of design reviews and code reviews, and make the people around you better.</li><li>Pick the right tool. Evaluate and adopt languages, frameworks, and platforms based on the problem, not habit.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>6+ years of professional software engineering experience, with a track record of shipping and owning production systems.</li><li>Genuine full-stack ability: comfortable designing backend services and data models, and building solid, usable frontends.</li><li>A product mindset: you care about the user and the business outcome, not just the ticket. You can explain why something should be built, not only how.</li><li>Technology-agnostic: you've worked across multiple languages and stacks and pick up new ones quickly.</li><li>AI-first habits: you use AI coding assistants, agents, and LLM APIs daily and have opinions about where they help and where they don't.</li><li>Strong systems thinking: distributed systems, APIs, databases, and the trade-offs between them.</li><li>Clear communication with both technical and non-technical stakeholders.</li><li>High ownership and comfort with ambiguity.</li></ul><p><strong>Nice to have</strong></p><ul><li>Experience in fintech, payments, lending, or other regulated domains (PCI DSS, SAMA, or similar).</li><li>Experience building AI-powered product features (LLM integrations, RAG, agents, evaluation).</li><li>Cloud infrastructure and DevOps experience (containers, CI/CD, observability).</li><li>Experience with B2B or merchant-facing products.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul>"
+    },
+    {
+      "title": "Merchant Success Specialist",
+      "shortcode": "932F843ADA",
+      "code": "1886-7025-7026",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/932F843ADA",
+      "shortlink": "https://apply.workable.com/j/932F843ADA",
+      "application_url": "https://apply.workable.com/j/932F843ADA/apply",
+      "published_on": "2026-08-31",
+      "created_at": "2025-02-20",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Sales",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br><br><strong>The Job in a Nutshell💡</strong></p><p>We are looking to hire an Merchant Success Specialist who will be responsible for ensuring a smooth customer journey from contract signature until full utilization. This involves analyzing new deals signed, facilitating onboarding, fast tracking installation and monitoring utilization.<br>This work will be with our most important and exciting products: Foodics pay, CDS and, Foodics One which are all about enabling our customers to accept card and omnichannel digital payments. Pay products help shape the Food &amp; Beverage industry’s payments experience in thousands of restaurants and stores across the Middle East.</p><p><br><strong>What Will You Do❓</strong></p><ul><li>Tracking Registration: all signed contracts must be registered in all systems within 24 hrs. You are responsible to follow up with stakeholders to ensure fast registration.</li><li>Tracking installation: You are responsible to ensure accurate implementation of Pay installation SLA with both external and internal vendors.</li><li>Conducting quick calls after the merchant is live to check if any help/training is needed.</li><li>Act as a communication channel to educate merchant about new releases, features and offers</li><li>Full understanding of the reconciliation cycle where it’s at most important to educate and answer merchant complicated questions.</li><li>Ensuring customer utilization of the provided services. This will require regular monitoring of newly installed devices and conducting calls, messages to ensure merchants will continue to enjoy our services.</li><li>3 months monitoring, communicating, ensuring zero complaint by merchants.</li><li>Proactively preventing churns: you will receive daily reports of potential churn and you will ensure stopping it.</li><li>Process improvement: You will be responsible for identifying opportunities to improve any part of the full Pay cycle, and working with other teams to implement process improvements.</li></ul><p><strong>What Are We Looking For❓</strong></p><ul><li>Experience: Previous experience working in payment operation is preferred.</li><li>Technical skills: You should have strong technical skills, including proficiency in Microsoft Excel and other data analysis tools.</li><li>Analytical skills: You should have strong analytical skills and be able to identify trends and patterns to fix the process and ease onboarding.</li><li>Communication skills: Strong communication skills are essential for this role, as you will be required to communicate with various stakeholders, including finance, engineering and customer support teams, as well as third-party service providers.</li><li>Problem-solving skills: You in this role should be a proactive problem-solver who can identify issues and develop effective solutions.</li><li>Knowledge of payment regulations: Having a good understanding of payment regulations, local regulations, to ensure compliance with industry standards is a good to have.</li></ul><p><strong>Who Will Excel❓<br></strong>Anyone who has:</p><ul><li>Knowledge and understanding of the fintech and payment industry.</li><li>Familiarity with the F&amp;B industry.</li><li>Willingness to relocate to our Riyadh office.</li><li>Arabic language.</li></ul><p><em>#High_Volume_of_Calls</em></p><p></p><p><strong>What We Offer You❗<br></strong>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p>"
+    },
+    {
+      "title": "Operations Specialist - Foodics Pay",
+      "shortcode": "8589E7418B",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/8589E7418B",
+      "shortlink": "https://apply.workable.com/j/8589E7418B",
+      "application_url": "https://apply.workable.com/j/8589E7418B/apply",
+      "published_on": "2026-09-10",
+      "created_at": "2026-09-10",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Mid-Senior level",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Develop long-term relationships with internal and external customers:</li><li>Develop strong relationships with all stakeholders within the bank and within the internal operations team.</li><li>Understand the inner workings of the bank and identify obstacle.</li><li> Develop an excellent working relationship with all cross-functional team within EPOS. </li><li>Understand the regulations.</li><li>Be knowledgeable on SAMA regulations, SLA’s and MADA branding rules related to POS business.</li><li>Knowledge of settlement and reconciliation.</li><li>Ensure that all activities are within the regulatory defined rules.</li><li>Become an SME for your account:</li><li>Develop a firm understanding of contracts and contractual responsibilities.</li><li>Maintain history of engagement and reports in a well-organized format on PC.</li><li>Line Management:</li><li>Ensure adherence to company policy and procedures.</li><li>Establish and maintain a positive and healthy work atmosphere.</li><li>Maintain office working hours.</li><li>Develop and maintain “Account ownership” culture.</li><li>Perform daily function with integrity and quality.</li><li>Responsible for overall engagements with the bank.</li><li>Responsible for merchant onboarding (administration approval process).</li><li>Responsible for terminal management and merchant profiling.</li><li>Single point of contact of POS vendor and ensure to accomplish installation and maintenance request within SLA.</li><li>Ensure merchant account settlement and reconciliation.</li><li>Ensure VIP customers receive continuous and exceptional service at all times.</li><li>Ensure to arrange daily POS related updates to publish an accurate and clear report for the bank or internal teams.</li><li>Process amendments or changes to the existing merchant credentials.</li><li>Maintain historical merchant information.</li><li>Preparation of SAMA SLA reports with POS vendors and responsible for submission to SAMA.</li><li>Process Chargeback, Claim and dispute request, and coordination to obtain the needed supportive document to the respective bank and ensure closure of cases.</li><li>Maintain &amp;amp; Control stock inventory.</li><li>Ensure to update the billing system for financial billing.</li><li>Validate invoices prior to submission to the banks.</li><li>Highlight discrepancies to finance dept. and ensure corrective action taken.</li><li>Prompt response to emails and establish proper follow up with stakeholders.</li><li>Monitor and control vendor performance and management Reporting.</li><li>Daily Maintenance/Installation report – Data accuracy and frequency maintain as per the bank agreement.</li><li>Preparation of mandate reports (POS SLA/MADA branding/Active- Inactive/Segmentation/ Stock reports).</li><li>Create proper backup to handle the above report in case of absence or vacation.</li></ul><p></p><p></p><p><strong>What Are We Looking For❓</strong></p><ul><ul><ul><li>Bachelor's Degree in Finance, Business, Economics, Law, or any relevant degree.</li><li> Minimum of 1-2 years experience as an Operations Officer / Accounts Officer.</li><li> Acquiring banking knowledge and SAMA regulatory framework is a must.</li><li> Strong knowledge of KSA regulatory compliance in financial and payment services.</li><li> Knowledgeable in TMS (Terminal Management System – SAMA).</li><li> Expert in Excel and other Microsoft tools.</li><li> Self-driven and hardworking.</li><li> Must have excellent communication skills (written and oral) both in English and Arabic.</li><li> Self-starter with the ability to work independently across functional groups and on multiple initiatives simultaneously.</li><li> Must be flexible to work in a fast-paced and evolving environment.</li></ul></ul></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul><p><br><br></p>"
+    },
+    {
+      "title": "Pay Expansion Executive",
+      "shortcode": "3717C13D5C",
+      "code": "6045-6046-6047-6048-6049-6050",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/3717C13D5C",
+      "shortlink": "https://apply.workable.com/j/3717C13D5C",
+      "application_url": "https://apply.workable.com/j/3717C13D5C/apply",
+      "published_on": "2026-09-01",
+      "created_at": "2026-09-01",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Sales",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p><strong>Who Are We❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>We are hiring a Pay Expansion Executive who will specialize in <a href=\"https://www.foodics.com/pay/\" rel=\"nofollow noreferrer noopener\" class=\"external\">POS/cash management</a> within Foodics, focusing on the “existing” customer base and increasing the adoption of Foodics Pay through various products. </p><p>You will work closely with internal cross-functional teams such as Customer Success, Operations, and Sales teams, and will be on top of opportunities generated from the existing customer base or creating your own opportunities to grow your customer portfolio, identifying wins that add value to the customer and Foodics. </p><p>The ideal candidate will have solid skills in sales, account management, and product knowledge. And has a technical background to help navigate all sales and deliver the solutions that the customers need ensuring successful outcomes and growth.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Responsible for selling of the <a href=\"https://www.foodics.com/pay/\" rel=\"nofollow noreferrer noopener\" class=\"external\">Foodics Pay</a> products to our clients.</li><li>Building a pipeline with opportunities that is always active with a strong closing rate.</li><li>Maintaining solid relationships with customers and delivering great outcomes with a high value to the customer, ensuring growth and revenue generation.</li><li>Closing “pre-generated” opportunities from cross-functional teams and consulting with the customer on potential cross-sell and up-sell opportunities.</li><li>Understand the market landscape and align with customers on market trends and direction and how to maintain a competitive advantage at all times.</li><li>Engaging with customers, demonstrating and showcasing our products.</li><li>Holding Demos with potential customers and ensuring utilization.</li><li>Reporting closed wins, and closed lost and enhancing the process to deliver better results.</li><li>Reporting and communicating on a periodic basis with the Sales Expansion Team Leader on process optimization, offers, bundling, and customer feedback to enhance the process overall and maintain better results.</li><li>Calling customers, scheduling meetings, and remaining on top of customer’s needs.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>Preferably Bachelor’s degree in business, marketing, or relevant studies.</li><li>2-3 years of work experience in a relevant field.</li><li>Prior proven track record in sales, pipeline, and funnel management, managing an entire sales cycle and ensuring full-service delivery.</li><li>High agility and able to cope in a fast-paced work environment.</li><li>Building strong, trusting relationships with customers and internal stakeholders.</li><li>Ownership, analytical mindset, self-motivated with an entrepreneurial spirit.</li><li>Team player and previously worked with cross-functional teams.</li><li>Must have solid English &amp; Arabic communication skills.</li><li>Excellent analytical and problem-solving skills.</li><li>Must have a valid driving license &amp; own a car.</li><li>Should be familiar with the different cities of the country he/she is assigned to.</li><li>Willing to do field work and travel from time to time (within and outside the area that you will be assigned).</li><li>Passion for technology and for being a part of a fast-growing SaaS company.</li><li>Passion for Food and Restaurants.</li></ul><p></p><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility in-offices.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "Receptionist & Administrative Assistant",
+      "shortcode": "9102944BF5",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "People & Culture",
+      "url": "https://apply.workable.com/j/9102944BF5",
+      "shortlink": "https://apply.workable.com/j/9102944BF5",
+      "application_url": "https://apply.workable.com/j/9102944BF5/apply",
+      "published_on": "2026-10-15",
+      "created_at": "2026-10-15",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Entry level",
+      "function": "Administrative",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<ul><li><strong><br>Who Are We❓<br></strong>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<strong><br><br><br>The Job in a Nutshell💡<br></strong>The Receptionist &amp; Administrative Assistant is the first point of contact for visitors and callers, and keeps the office running day to day. The role combines front-desk duties with administrative support to HR and the wider office, including records, supplies, meeting rooms, travel and vendor coordination. The aim is a professional welcome for every guest and an office where employees have what they need, on time.<br><br><br><strong>What Will You Do❓<br><br>Reception and Front Desk Administrative</strong></li><li>Welcome visitors, candidates and clients, verify identity, register them in the visitor log and issue visitor badges.</li><li>Notify hosts on arrival and escort guests to meeting rooms when needed.</li><li>Answer and direct incoming calls, take accurate messages and handle general inquiries.</li><li>Receive, log and distribute incoming mail, couriers and deliveries; arrange outgoing shipments.</li><li>Keep the reception and waiting area clean, tidy and presentable at all times.</li><li>Follow building security and access-control procedures and report any security concern immediately.</li><li>Manage meeting room bookings and prepare rooms with refreshments and equipment.</li><li>Monitor office supplies and pantry stock, raise purchase requests and track deliveries.</li><li>Maintain organizing physical and electronic filing for administrative documents.</li><li>Prepare letters, memos and simple reports, and update trackers and spreadsheets.</li><li>Coordinate business travel bookings (flights, hotels, transport) in line with the travel policy.</li><li>Arrange logistics for internal events, meetings and employee engagement activities.</li><li>Prepare the workstation, access card and welcome pack for new joiners in coordination with IT.</li><li>Provide support and assistance to other departments and the CEO as needed.</li><li>Act as the contact point for cleaning, maintenance, security and pantry service providers.</li><li>Report and follow up on facility issues (air conditioning, lighting, furniture, equipment) until resolved.</li><li>Track service vendor performance and raise issues with the line manager.</li><li>Support petty cash handling and keep receipts for office expenses, where assigned.</li><li>Perform any other related duties assigned by the line manager.<br><br><br><br><strong>What Are We Looking For❓</strong></li><li>Diploma or bachelor's degree in business administration, Office Management or a related field.</li><li>1 to 2 years of experience in reception, front desk or office administration.</li><li>Experience in a corporate or regulated environment is a plus.<br><br><br><strong>Who Will Excel❓</strong></li><li>Fluent spoken and written Arabic and English.</li><li>Good working knowledge of Microsoft Office or Zoho Workspace (email, Word, Excel, calendars).</li><li>Professional, friendly presence and clear communication.</li><li>Strong organization and time management; able to handle several tasks at once.</li><li>High level of discretion with confidential and personal information.</li><li>Attention to detail and a service-minded, proactive attitude.<br><br><strong>Key Performance Indicators</strong></li><li>All visitors registered in the visitor log, with no unregistered access.</li><li>Office supplies and pantry items kept in stock, with no stock-outs.</li><li>Facility issues logged and followed up until closed.</li><li>New joiners' workstation, access card and welcome pack ready on day one.</li><li>Positive feedback from employees and visitors on front-desk service.<br></li></ul><p><br><br></p>"
+    },
+    {
+      "title": "Renewals Specialist",
+      "shortcode": "46BBD74B98",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/46BBD74B98",
+      "shortlink": "https://apply.workable.com/j/46BBD74B98",
+      "application_url": "https://apply.workable.com/j/46BBD74B98/apply",
+      "published_on": "2026-09-10",
+      "created_at": "2026-09-08",
+      "country": "Saudi Arabia",
+      "city": "Madinah",
+      "state": "Al Madinah Province",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Madinah",
+          "region": "Al Madinah Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓<br></strong><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>The Renewal Specialist is responsible for managing a portfolio of customers, ensuring successful renewals, proactive issue resolution, and ongoing value realization. The role goes beyond renewals to act as a trusted customer success partner, with direct ownership of churn prevention and ARR retention.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Own customer renewals for an assigned portfolio and ensure timely and successful renewal closure.</li><li>Proactively manage customer relationships and act as the primary point of contact.</li><li>Conduct a minimum of 4 structured health-check calls per customer per year.</li><li>Identify risks, dissatisfaction signals, and expansion opportunities early.</li><li>Resolve customer issues by coordinating with internal teams (Support, Product, Finance, etc.).</li><li>Track and follow up on open issues until full resolution.</li><li>Maintain accurate customer data, renewal status, and risk indicators in CRM systems.</li><li>Take accountability for churn reduction and ARR retention within the assigned portfolio.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>1–3 years of experience in Customer Success, Account Management, Renewals, or Support.</li><li>Experience working with SaaS or subscription-based products is a strong plus.</li><li>Strong communication skills (Arabic required; English is a plus).</li><li>Customer-centric mindset with problem-solving skills.</li><li>Comfortable working with targets related to retention, churn, and ARR. </li></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Experience using CRM tools (e.g., Salesforce or similar).</li><li>Familiarity with ticketing/support tools (e.g., Zendesk or similar).</li><li>Experience supporting customers in the Saudi or GCC market.</li></ul><p></p><p><strong>What We Offer You❗</strong><br>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul>"
+    },
+    {
+      "title": "Renewals Team Leader",
+      "shortcode": "B3639BAA34",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/B3639BAA34",
+      "shortlink": "https://apply.workable.com/j/B3639BAA34",
+      "application_url": "https://apply.workable.com/j/B3639BAA34/apply",
+      "published_on": "2026-09-27",
+      "created_at": "2026-09-27",
+      "country": "Saudi Arabia",
+      "city": "Madinah",
+      "state": "Al Madinah Province",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Madinah",
+          "region": "Al Madinah Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓<br></strong><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>&nbsp;You will lead a team of Renewal Specialists on site and run the team's daily work. You will work closely with the Renewals Manager. You will be the main on-site point of contact for the team. You are responsible for making sure the team hits its retention, churn, and ARR targets.</p><p></p><p></p><p><strong>What Will You Do❓</strong></p><p><br><em>Team leadership and daily operations</em><br></p><ul><ul><li>Lead, coach, and support a team of Renewal Specialists on site every day.</li><li>Plan daily and weekly work: portfolio coverage, call plans, and follow-ups.</li><li>Run daily stand-ups and monthly 1:1s with team members.</li><li>Make sure the team follows renewal processes, playbooks, and quality standards.</li><li>Handle team attendance, schedules, and coverage during leaves or absences.</li></ul><li><em>Performance and targets</em><br></li><ul><li>Own team targets for renewal rate, churn, and ARR retention.</li><li>Track each specialist's performance and give clear, regular feedback.</li><li>Spot low performance early and build improvement plans with the Manager.</li><li>Review call quality, CRM updates, and health-check completion (minimum 4 per customer per year).</li></ul><li><em>Escalations and risk</em><br></li><ul><li>Act as the first escalation point for at-risk customers, complaints, and hard renewal cases.</li><li>Join or lead calls with high-risk or high-value customers when needed.</li><li>Work with other teams to remove blockers for the team.</li><li>Make day-to-day decisions within agreed limits, and escalate larger decisions to the Manager.</li></ul><li><em>Reporting and communication</em><br></li><ul><li>Prepare weekly and monthly reports on team results, risks, and churn reasons.</li><li>Keep the Manager updated on team status, issues, and wins through regular syncs.</li><li>Share customer feedback and churn insights with internal teams.</li></ul><li><em>Process and growth</em><br></li><ul><li>Suggest and help roll out improvements to renewal processes and tools.</li><li>Help onboard and train new team members.</li><li>Help with hiring, including interviews and assessments.</li></ul></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><ul><li>3–5 years of experience in Customer Success, Account Management, or Renewals.</li><li>At least 1 year of leading, coaching, or mentoring a team, either formally or as a senior member.</li><li>Experience with SaaS or subscription-based products.</li><li>Proven track record of meeting retention, churn, or ARR targets.</li><li>Strong communication skills (Arabic required; good English required for reporting and working with internal teams).</li><li>Good with data: comfortable reading dashboards, tracking KPIs, and building simple reports.</li></ul></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><ul><ul><li>Hands-on experience with Salesforce (or a similar CRM) and Zendesk (or a similar ticketing tool).</li><li>Experience with customers in the Saudi or GCC market, especially F&amp;B.</li><li>Experience running a team with a remote or part-time on-site manager.</li><li>Calm under pressure and able to handle difficult customer conversations.</li></ul></ul></ul><p></p><p><strong>What We Offer You❗</strong><br>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul>"
+    },
+    {
+      "title": "Sales Executive",
+      "shortcode": "A080E07946",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/A080E07946",
+      "shortlink": "https://apply.workable.com/j/A080E07946",
+      "application_url": "https://apply.workable.com/j/A080E07946/apply",
+      "published_on": "2026-10-20",
+      "created_at": "2025-11-09",
+      "country": "Saudi Arabia",
+      "city": "Al Khobar",
+      "state": "Eastern Province",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Al Khobar",
+          "region": "Eastern Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡&nbsp;</strong></p><p>We are looking to hire a dynamic and energetic Sales Executive to join our team. This role is crucial in driving Foodics’ growth by sourcing, closing, and actively maximizing revenue from new and existing partners, particularly focusing on selling our SaaS software to restaurants. The Sales Executive will play a pivotal role in expanding our international reach and boosting collaboration with digital third-party integration apps. If you are passionate about sales, technology, and thrive in a fast-paced environment, we want to hear from you!</p><p></p><p><strong>What Will You Do❓</strong></p><ul> <li>Achieve Targets: Maintain a high closing ratio on qualified leads. Meet and exceed daily, weekly, and monthly KPIs to hit sales targets.</li> <li>Lead Generation and Acquisition: Generate new leads by leveraging digital marketing campaigns and participating in industry networking events. Convert demo sessions into confirmed sales.</li> <li>Relationship Management: Establish relationships with new strategic partners and maintain positive business relationships with existing and potential partners to ensure future sales.</li> <li>CRM Proficiency: Use CRM systems to follow up on projects and cases related to customers, ensuring meticulous tracking and reporting of sales activities.</li> <li>Data-Driven Approach: Leverage data and CRM insights to inform sales strategies and optimize performance.</li> <li>Pipeline Generation: Proven ability to generate a sales pipeline that is four times the monthly quota.</li> <li>Skill Development: Complete all scheduled training sessions on new product features and advanced sales techniques. Achieve high scores on product knowledge assessments.</li> <li>Innovative Mindset: Foster a creative and dynamic startup attitude, contributing innovative ideas to drive business growth.</li> </ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul> <li>Educational Background: BS/BA degree in Business, Information Technology, Computer Science, or a related field.</li> <li>Sales Experience: 2-3 years of direct sales experience in Information Technology, FMCG, Software, or SaaS industries is preferred. Talented fresh graduates with a passion for SaaS sales will also be considered.</li> <li>Analytical Skills: Strong analytical and problem-solving abilities.</li> <li>Communication Skills: Excellent communication skills in English and Arabic. Fluency in other languages is a plus.</li> <li>Mobility: Valid driver’s license and access to a personal car, with a willingness to conduct fieldwork.</li> <li>Independence: Self-starter with the ability to work independently across functional groups and manage multiple initiatives simultaneously.</li> <li>Adaptability: Flexibility to thrive in a fast-paced and evolving environment.</li> <li>Passion: Enthusiasm for technology and being part of a fast-growing SaaS company.</li> </ul><p><strong>Who Will Excel❓</strong></p><ul> <li>Previous experience in the SaaS, technology, or F&amp;B industry.</li> <li>A proactive approach with a track record of exceeding sales targets.</li> <li>A collaborative team player with a passion for driving growth and innovation.</li> </ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul> <li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li> <li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li> <li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li> <li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li> </ul></ul>"
+    },
+    {
+      "title": "Sales Executive",
+      "shortcode": "B30D41AEEE",
+      "code": "1835, 1836",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/B30D41AEEE",
+      "shortlink": "https://apply.workable.com/j/B30D41AEEE",
+      "application_url": "https://apply.workable.com/j/B30D41AEEE/apply",
+      "published_on": "2026-08-24",
+      "created_at": "2026-08-24",
+      "country": "United Arab Emirates",
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Sales",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "United Arab Emirates",
+          "countryCode": "AE",
+          "city": "Abu Dhabi",
+          "region": "Abu Dhabi",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓<br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡&nbsp;</strong></p><p>We are looking to hire a dynamic and energetic Sales Executive to join our team. This role is crucial in driving Foodics’ growth by sourcing, closing, and actively maximizing revenue from new and existing partners, particularly focusing on selling our SaaS software to restaurants. The Sales Executive will play a pivotal role in expanding our international reach and boosting collaboration with digital third-party integration apps. If you are passionate about sales, technology, and thrive in a fast-paced environment, we want to hear from you!</p><p></p><p><strong>What You will Do </strong>❓</p><ul> <li> <strong>Achieve Targets:</strong> Maintain a high closing ratio on qualified leads. Meet and exceed daily, weekly, and monthly KPIs to hit sales targets.</li> <li> <strong>Lead Generation and Acquisition:</strong> Generate new leads by leveraging digital marketing campaigns and participating in industry networking events. Convert demo sessions into confirmed sales.</li> <li> <strong>Relationship Management: </strong>Establish relationships with new strategic partners and maintain positive business relationships with existing and potential partners to ensure future sales.</li> <li> <strong>CRM Proficiency:</strong> Use CRM systems to follow up on projects and cases related to customers, ensuring meticulous tracking and reporting of sales activities.</li> <li> <strong>Data-Driven Approach: </strong>Leverage data and CRM insights to inform sales strategies and optimize performance.</li> <li> <strong>Pipeline Generation:</strong> Proven ability to generate a sales pipeline that is four times the monthly quota.</li> <li> <strong>Skill Development: </strong>Complete all scheduled training sessions on new product features and advanced sales techniques. Achieve high scores on product knowledge assessments.</li> <li>I<strong>nnovative Mindset: </strong>Foster a creative and dynamic startup attitude, contributing innovative ideas to drive business growth.</li> </ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul> <li> <strong>Educational Background:</strong> BS/BA degree in Business, Information Technology, Computer Science, or a related field.</li> <li> <strong>Sales Experience:</strong> 2-3 years of direct sales experience in Information Technology, FMCG, Software, or SaaS industries is preferred. Talented fresh graduates with a passion for SaaS sales will also be considered.</li> <li> <strong>Analytical Skills:</strong> Strong analytical and problem-solving abilities.</li> <li> <strong>Communication Skills:</strong> Excellent communication skills in <strong>English and Arabic</strong>. Fluency in other languages is a plus.</li> <li> <strong>Mobility:</strong> Valid driver’s license and access to a personal car, with a willingness to conduct fieldwork.</li> <li> <strong>Independence:</strong> Self-starter with the ability to work independently across functional groups and manage multiple initiatives simultaneously.</li> <li> <strong>Adaptability:</strong> Flexibility to thrive in a fast-paced and evolving environment.</li> <li> <strong>Passion: </strong>Enthusiasm for technology and being part of a fast-growing SaaS company.</li> </ul><p></p><p><strong>Who Will Excel❓</strong></p><ul> <li>Previous experience in the SaaS, technology, or F&amp;B industry.</li> <li>A proactive approach with a track record of exceeding sales targets.</li> <li>A collaborative team player with a passion for driving growth and innovation.</li> <li>Restaurant operations experience is a plus.</li> </ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul> <li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li> <li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li> <li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li> <li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li> </ul></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "Sales Executive - Expansion Team",
+      "shortcode": "2F5E59C68F",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/2F5E59C68F",
+      "shortlink": "https://apply.workable.com/j/2F5E59C68F",
+      "application_url": "https://apply.workable.com/j/2F5E59C68F/apply",
+      "published_on": "2026-08-24",
+      "created_at": "2025-02-18",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>The Sales Expansion Executive is responsible for managing expansion sales requests from existing customers while driving upselling and cross-selling opportunities. This role ensures that expansion deals are efficiently processed while maximizing revenue through additional product sales. Since expansion revenue is typically self-driven by customer requests, the executive focuses on enhancing deal value by strategically including upsell and cross-sell products.</p><p></p><p><strong>What Will You Do❓</strong></p><p>Expansion Sales Management:</p><ul><ul> <li>Handle incoming new branch sales requests from existing customers.</li> <li>Generate and send quotes promptly, ensuring accuracy and alignment with customer needs.</li> <li>Track expansion requests and ensure timely follow-ups to close deals efficiently.</li> </ul></ul><p>Upselling &amp; Cross-Selling Focus:</p><ul><ul> <li>Identifying new upselling &amp; cross-selling opportunities from existing customers through outbound activities.</li> <li>Identify and recommend additional products to maximize revenue from expansion deals.</li> <li>Ensure that every expansion quote includes relevant upsell/cross-sell products before sending to the customer.</li> </ul></ul><p>Sales Process &amp; Coordination:</p><ul><ul> <li>Work closely with internal teams to ensure smooth processing of expansion sales.</li> <li>Communicate effectively with customers regarding their expansion needs and available solutions.</li> <li>Maintain accurate records of expansion requests in the CRM system.</li> </ul></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul> <ul> <li>2+ years in sales, account management, or a related field.</li> <li>Experience in handling sales requests and generating quotes.</li> <li>Experience working with CRM systems to manage and track sales activities.</li> </ul> <ul> <li>Strong sales mindset with a focus on upselling and cross-selling.</li> <li>Excellent communication and negotiation skills.</li> <li>Detail-oriented with strong organizational abilities.</li> <li>Ability to work efficiently under pressure and meet deadlines.</li> <li>Experience in SaaS or technology sales is a plus. </li> <li>Knowledge of Foodics products and their value to different business models is a plus. </li> </ul> </ul><p></p><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul> <li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li> <li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li> <li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li> <li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li> </ul></ul><p></p>"
+    },
+    {
+      "title": "Senior Backend Engineer (.NET)",
+      "shortcode": "B05AB45076",
+      "code": "5180",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Technology",
+      "url": "https://apply.workable.com/j/B05AB45076",
+      "shortlink": "https://apply.workable.com/j/B05AB45076",
+      "application_url": "https://apply.workable.com/j/B05AB45076/apply",
+      "published_on": "2026-05-18",
+      "created_at": "2026-05-18",
+      "country": "Jordan",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "education": null,
+      "experience": "Mid-Senior level",
+      "function": "Engineering",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Jordan",
+          "countryCode": "JO",
+          "city": "Amman",
+          "region": "Amman Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region.</p><p></p><p><strong>The Job in a Nutshell💡</strong></p><p>The Senior Backend Engineer will be part of the tech team and will be expected to create, maintain, test, and debug scalable backend services and web applications. The ultimate goal is to provide fully functional, stable, and high-performing systems that power Foodics products at scale.</p><p>This role requires strong experience in backend engineering with a primary focus on .NET technologies, while also being comfortable working on existing and evolving PHP Laravel services and applications.</p><p></p><p><strong>What You Will Do❓</strong></p><ul><li>Establish and guide the architecture of several backend services and web applications. </li><li> Collaborate with product managers, designers, and engineers across multiple teams. </li><li> Design and implement scalable, secure, and high-performance backend systems. </li><li> Develop and maintain APIs and microservices primarily using .NET technologies. </li><li> Contribute to and maintain existing PHP Laravel applications and services. </li><li> Write clean, maintainable, and well-tested code. </li><li> Solve complex performance problems and architectural challenges. </li><li> Integrate data from various services, third-party systems, and databases. </li><li> Improve system reliability, scalability, and observability. </li><li> Participate in code reviews and mentor Junior engineers. </li><li> Research and help adopt new technologies, frameworks, and engineering practices. </li><li> Look for ways to reduce technical debt, improve performance, and organize the code base.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>A minimum of 3 years of experience developing large-scale backend systems and web applications. </li><li> Strong experience with .NET / C# is a must. </li><li> Good hands-on experience with PHP Laravel. </li><li> Experience designing and building scalable backend services with focus on high availability, low latency, and reliability. </li><li> Solid understanding of REST APIs and distributed systems. </li><li> Strong experience with relational databases and database design. </li><li> Experience with caching and queuing technologies such as Redis. </li><li> Solid understanding of background jobs and asynchronous processing. </li><li> Experience writing unit and integration tests. </li><li> Good understanding of software engineering principles and design patterns such as SOLID. </li><li> Experience working in fast-paced engineering environments. </li><li> Strong analytical and problem-solving skills. </li><li> Experience leading technical initiatives or projects is a plus. </li><li> Experience with cloud platforms and containerized environments is a plus. </li><li> Experience with monitoring and observability tools is a plus. </li><li> Experience with foodtech or SaaS products is a plus. </li><li> Strong communication skills and ability to work effectively with different stakeholders. </li><li> Communicating well verbally in English. </li><li> Ability to adapt to time zone differences and thrive in a remote working environment.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p></p>"
+    },
+    {
+      "title": "Senior People Operations Specialist",
+      "shortcode": "0526054068",
+      "code": "",
+      "employment_type": "",
+      "telecommuting": false,
+      "department": "People & Culture",
+      "url": "https://apply.workable.com/j/0526054068",
+      "shortlink": "https://apply.workable.com/j/0526054068",
+      "application_url": "https://apply.workable.com/j/0526054068/apply",
+      "published_on": "2026-10-19",
+      "created_at": "2026-10-19",
+      "country": "Egypt",
+      "city": "Cairo",
+      "state": "Cairo Governorate",
+      "education": "",
+      "experience": "",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Egypt",
+          "countryCode": "EG",
+          "city": "Cairo",
+          "region": "Cairo Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓<br></strong>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡</strong></p><p>We are seeking a highly experienced and detail-oriented Senior People Operations professional to serve as the cornerstone of our employee experience and administrative excellence. This role is critical in ensuring seamless HR operations across the entire employee lifecycle, with a strong emphasis on accuracy, compliance, and exceptional service. You will own all core people's operational processes, manage complex payroll and benefits administration, and act as the primary guardian of legal compliance in our regions of operation. The ideal candidate is a proactive problem-solver, a master of HRIS and payroll systems, and a trusted advisor to employees and managers alike.</p><p></p><p><strong>What Will You Do❓</strong></p><p><strong>1. Employee Lifecycle Management:</strong></p><ul><li>Own the end-to-end employee journey, including preparing and issuing legally compliant employment contracts, offer letters, and amendments.</li><li>Manage comprehensive onboarding and orientation programs, ensuring a stellar first-day experience.</li><li>Administer employee status changes, handling promotions, transfers, and related documentation.</li><li>Conduct offboarding procedures including exit interviews, final settlements, and issuance of experience certificates.</li><li>Manage all employment-related letters and documentation with the highest level of accuracy and confidentiality.</li></ul><p><strong>2. Payroll, Benefits &amp; HRIS Management:</strong></p><ul><li>Prepare, verify, and submit accurate payroll inputs (attendances, leaves, adjustments) for timely, error-free monthly payroll processing.</li><li>Own the administration of employee benefits programs, with specific responsibility for Medical/Health Insurance: manage policy renewals, employee additions/deletions, dependent updates, and serve as the primary liaison for employee claim inquiries and troubleshooting.</li><li>Maintain and audit employee data in our HR Information System (HRIS), ensuring data integrity and serving as the go-to expert for system configuration, reporting, and queries.</li><li>Coordinate with finance to ensure accurate accounting and disbursement of payroll.</li></ul><p><strong>3. Compliance, Legal Adherence &amp; Government Liaison:</strong></p><ul><li>Ensure 100% compliance with all local labour laws and regulations. This includes mandatory social insurance registrations, contributions, and filings, as well as managing all interactions with the labor office (e.g., submission of documents, resolving queries).</li><li>Regularly review and update HR policies, handbooks, and employment templates to reflect current legal requirements.</li><li>Proactively stay updated on legal changes impacting employment, benefits (including statutory health insurance schemes), and payroll.</li><li>Manage government inspections, audits, and surveys, preparing all necessary documentation and serving as the point of contact.</li><li>Maintain meticulous records for all compliance-related activities.</li></ul><p><strong>4. Policy Development &amp; Process Improvement:</strong></p><ul><li>Contribute to developing, reviewing, and updating HR policies and procedures in line with legal mandates and industry best practices.</li><li>Identify opportunities for automation, integration, and efficiency within the people operations framework to enhance service delivery and accuracy.</li><li>Document and standardize all operational processes and workflows.</li></ul><p><strong>5. Employee Engagement &amp; Support:</strong></p><ul><li>Collaborate with managers and the Global People team to coordinate local team-building activities and engagement initiatives.</li><li>Serve as a trusted, primary point of contact for employee inquiries regarding policies, benefits (including medical insurance), payroll, and general HR matters, resolving issues promptly and with a high degree of service orientation.</li><li>Foster a culture of trust and transparency through clear and compassionate communication.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>Bachelor’s degree in Human Resources, Business Administration, or a related field.</li><li>3+&nbsp; years of proven experience in a People Operations, HR Generalist, or HR Operations role with a strong focus on payroll, benefits, and compliance.</li><li>In-depth, hands-on experience with mandatory social insurance programs and labor office procedures is essential.</li><li>Extensive experience in administering group medical insurance policies (additions, deletions, claims support).</li><li>High proficiency with HRIS platforms and payroll software; strong Excel/Google Sheets skills.</li><li>Comprehensive and up-to-date knowledge of local labour laws, employment standards, and statutory benefits requirements.</li><li>Exceptional attention to detail, organizational skills, and a commitment to data accuracy and confidentiality.</li><li>Excellent communication and interpersonal skills, with the ability to explain complex information clearly.</li><li>Proactive, solution-oriented mindset with the ability to manage multiple priorities in a fast-paced environment.</li><li>High level of integrity and professional ethics.</li></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Experience in a fast-paced startup /&nbsp; scale-up environment.</li><li>Professional HR certification (e.g., SHRM-CP, SHRM-SCP, PHR, GPHR).</li></ul><p></p><p><strong>What We Offer You❗</strong><br>We believe you will love working at Foodics!</p><ul><li>We have an inclusive and diverse culture that encourages innovation and flexibility.</li><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul>"
+    },
+    {
+      "title": "Senior Sales Executive",
+      "shortcode": "1A5DCA6E6E",
+      "code": "1835, 1836",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/1A5DCA6E6E",
+      "shortlink": "https://apply.workable.com/j/1A5DCA6E6E",
+      "application_url": "https://apply.workable.com/j/1A5DCA6E6E/apply",
+      "published_on": "2026-09-06",
+      "created_at": "2026-04-05",
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "state": "Dubai",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Sales",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "United Arab Emirates",
+          "countryCode": "AE",
+          "city": "Dubai",
+          "region": "Dubai",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓<br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡&nbsp;</strong></p><p>We are looking to hire a dynamic and energetic Sales Executive to join our team. This role is crucial in driving Foodics’ growth by sourcing, closing, and actively maximizing revenue from new and existing partners, particularly focusing on selling our SaaS software to restaurants. The Sales Executive will play a pivotal role in expanding our international reach and boosting collaboration with digital third-party integration apps. If you are passionate about sales, technology, and thrive in a fast-paced environment, we want to hear from you!</p><p></p><p><strong>What You will Do </strong>❓</p><ul><li> <strong>Achieve Targets:</strong> Maintain a high closing ratio on qualified leads. Meet and exceed daily, weekly, and monthly KPIs to hit sales targets.</li><li> <strong>Lead Generation and Acquisition:</strong> Generate new leads by leveraging digital marketing campaigns and participating in industry networking events. Convert demo sessions into confirmed sales.</li><li> <strong>Relationship Management: </strong>Establish relationships with new strategic partners and maintain positive business relationships with existing and potential partners to ensure future sales.</li><li> <strong>CRM Proficiency:</strong> Use CRM systems to follow up on projects and cases related to customers, ensuring meticulous tracking and reporting of sales activities.</li><li> <strong>Data-Driven Approach: </strong>Leverage data and CRM insights to inform sales strategies and optimize performance.</li><li> <strong>Pipeline Generation:</strong> Proven ability to generate a sales pipeline that is four times the monthly quota.</li><li> <strong>Skill Development: </strong>Complete all scheduled training sessions on new product features and advanced sales techniques. Achieve high scores on product knowledge assessments.</li><li>I<strong>nnovative Mindset: </strong>Foster a creative and dynamic startup attitude, contributing innovative ideas to drive business growth.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li> <strong>Educational Background:</strong> BS/BA degree in Business, Information Technology, Computer Science, or a related field.</li><li> <strong>Sales Experience:</strong> 2-3 years of direct sales experience in Information Technology, FMCG, Software, or SaaS industries is required. </li><li> <strong>Analytical Skills:</strong> Strong analytical and problem-solving abilities.</li><li> <strong>Communication Skills:</strong> Excellent communication skills in <strong>English and Arabic</strong>. Fluency in other languages is a plus.</li><li> <strong>Mobility:</strong> Valid driver’s license and access to a personal car, with a willingness to conduct fieldwork.</li><li> <strong>Independence:</strong> Self-starter with the ability to work independently across functional groups and manage multiple initiatives simultaneously.</li><li><strong>Work Style:</strong>&nbsp;Self-starter, able to manage multiple initiatives and thrive in fast-paced environments.</li><li> <strong>Adaptability:</strong> Flexibility to thrive in a fast-paced and evolving environment.</li><li> <strong>Passion: </strong>Enthusiasm for technology and being part of a fast-growing SaaS company.</li></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Previous experience in the SaaS, technology, or F&amp;B industry.</li><li>A proactive approach with a track record of exceeding sales targets.</li><li>A collaborative team player with a passion for driving growth and innovation.</li><li>Restaurant operations experience is a plus.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "Senior Sales Executive",
+      "shortcode": "1A5DCA6E6E",
+      "code": "1835, 1836",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Customer Operations",
+      "url": "https://apply.workable.com/j/1A5DCA6E6E",
+      "shortlink": "https://apply.workable.com/j/1A5DCA6E6E",
+      "application_url": "https://apply.workable.com/j/1A5DCA6E6E/apply",
+      "published_on": "2026-09-06",
+      "created_at": "2026-04-05",
+      "country": "United Arab Emirates",
+      "city": "Abu Dhabi",
+      "state": "Abu Dhabi",
+      "education": "Bachelor's Degree",
+      "experience": "Associate",
+      "function": "Sales",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "United Arab Emirates",
+          "countryCode": "AE",
+          "city": "Abu Dhabi",
+          "region": "Abu Dhabi",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓<br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡&nbsp;</strong></p><p>We are looking to hire a dynamic and energetic Sales Executive to join our team. This role is crucial in driving Foodics’ growth by sourcing, closing, and actively maximizing revenue from new and existing partners, particularly focusing on selling our SaaS software to restaurants. The Sales Executive will play a pivotal role in expanding our international reach and boosting collaboration with digital third-party integration apps. If you are passionate about sales, technology, and thrive in a fast-paced environment, we want to hear from you!</p><p></p><p><strong>What You will Do </strong>❓</p><ul><li> <strong>Achieve Targets:</strong> Maintain a high closing ratio on qualified leads. Meet and exceed daily, weekly, and monthly KPIs to hit sales targets.</li><li> <strong>Lead Generation and Acquisition:</strong> Generate new leads by leveraging digital marketing campaigns and participating in industry networking events. Convert demo sessions into confirmed sales.</li><li> <strong>Relationship Management: </strong>Establish relationships with new strategic partners and maintain positive business relationships with existing and potential partners to ensure future sales.</li><li> <strong>CRM Proficiency:</strong> Use CRM systems to follow up on projects and cases related to customers, ensuring meticulous tracking and reporting of sales activities.</li><li> <strong>Data-Driven Approach: </strong>Leverage data and CRM insights to inform sales strategies and optimize performance.</li><li> <strong>Pipeline Generation:</strong> Proven ability to generate a sales pipeline that is four times the monthly quota.</li><li> <strong>Skill Development: </strong>Complete all scheduled training sessions on new product features and advanced sales techniques. Achieve high scores on product knowledge assessments.</li><li>I<strong>nnovative Mindset: </strong>Foster a creative and dynamic startup attitude, contributing innovative ideas to drive business growth.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li> <strong>Educational Background:</strong> BS/BA degree in Business, Information Technology, Computer Science, or a related field.</li><li> <strong>Sales Experience:</strong> 2-3 years of direct sales experience in Information Technology, FMCG, Software, or SaaS industries is required. </li><li> <strong>Analytical Skills:</strong> Strong analytical and problem-solving abilities.</li><li> <strong>Communication Skills:</strong> Excellent communication skills in <strong>English and Arabic</strong>. Fluency in other languages is a plus.</li><li> <strong>Mobility:</strong> Valid driver’s license and access to a personal car, with a willingness to conduct fieldwork.</li><li> <strong>Independence:</strong> Self-starter with the ability to work independently across functional groups and manage multiple initiatives simultaneously.</li><li><strong>Work Style:</strong>&nbsp;Self-starter, able to manage multiple initiatives and thrive in fast-paced environments.</li><li> <strong>Adaptability:</strong> Flexibility to thrive in a fast-paced and evolving environment.</li><li> <strong>Passion: </strong>Enthusiasm for technology and being part of a fast-growing SaaS company.</li></ul><p></p><p><strong>Who Will Excel❓</strong></p><ul><li>Previous experience in the SaaS, technology, or F&amp;B industry.</li><li>A proactive approach with a track record of exceeding sales targets.</li><li>A collaborative team player with a passion for driving growth and innovation.</li><li>Restaurant operations experience is a plus.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul><p></p><p></p><p></p>"
+    },
+    {
+      "title": "Senior Software Engineer - Foodics ERP",
+      "shortcode": "297E7A114C",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": true,
+      "department": null,
+      "url": "https://apply.workable.com/j/297E7A114C",
+      "shortlink": "https://apply.workable.com/j/297E7A114C",
+      "application_url": "https://apply.workable.com/j/297E7A114C/apply",
+      "published_on": "2026-09-15",
+      "created_at": "2026-09-15",
+      "country": "Jordan",
+      "city": "Amman",
+      "state": "Amman Governorate",
+      "education": "Bachelor's Degree",
+      "experience": "Mid-Senior level",
+      "function": "",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Jordan",
+          "countryCode": "JO",
+          "city": "Amman",
+          "region": "Amman Governorate",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We</strong>❓<br><em>We Are Foodics!</em> a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarter in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.<br></p><p><strong>The Job in a Nutshell💡&nbsp;</strong></p><p>Foodics powers thousands of restaurants across the region — point of sale, payments, inventory, and the operational backbone underneath. We're now building our own accounting platform: the layer that takes everything a merchant already does in Foodics and turns it into a clean, closed set of books, without the merchant doing the work twice.</p><p>This is a new product being built from zero by a small squad. You'll be one of the first engineers on it. The scope is real — a ledger, core accounting modules, ZATCA compliance, and deep integration into inventory, payments and the POS. The timeline is aggressive and the ambiguity is high, which is the point.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Design and build the core accounting product — general ledger, chart of accounts, journals, AP/AR, reconciliation, financial reporting — on our stack</li><li>Own the integration surface: inventory, payments, POS transaction flows, and regulatory e-invoicing</li><li>Work full stack. There is no backend-only or frontend-only seat on a team this size</li><li>Turn accounting requirements into system design, in close partnership with a product manager and a domain accountant</li><li>Use AI tooling as a core part of how you build — evaluating reference systems, generating and reviewing code, accelerating everything that can be accelerated</li><li>Make architectural calls early and defend them. Financial data doesn't forgive a weak foundation</li><li>Ship in weeks, not quarters, and put it in front of real merchants to find out what's wrong with it</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><p><strong>Required</strong></p><ul><li>5+ years building production software, with meaningful time on accounting, ERP, or financial systems — you understand double-entry, period close, and why a ledger is not just another table</li><li>Strong full-stack engineering. Comfortable owning a feature from schema to screen</li><li>AI-native way of working. You use agents and LLM tooling daily, you have judgment about where their output can be trusted and where it can't, and you're measurably faster because of it</li><li>Track record of shipping fast in an early-stage or greenfield environment — small team, short cycles</li><li>Care for correctness in systems where being wrong is expensive</li><li>Able to work substantially within GMT+3 hours</li></ul><p><strong>Strong plus</strong></p><ul><li>Product instinct — you don't stop at implementation, you shape what gets built alongside your Product partner</li><li>Built or operated a ledger, double-entry engine, or transaction-processing system at scale</li><li>Fintech, banking, payments or financial services background</li><li>Familiarity with ERP platforms (ERPNext, Odoo, NetSuite, SAP) — as a builder, an integrator, or a serious user</li><li>Experience with ZATCA e-invoicing or comparable regional tax and regulatory integrations</li><li>Shipped AI-powered features, not just used AI to write code</li><li>Arabic Speaker</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul>"
+    },
+    {
+      "title": "Sr. Product Manager - Foodics ERP",
+      "shortcode": "0631C51D4B",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Product",
+      "url": "https://apply.workable.com/j/0631C51D4B",
+      "shortlink": "https://apply.workable.com/j/0631C51D4B",
+      "application_url": "https://apply.workable.com/j/0631C51D4B/apply",
+      "published_on": "2026-09-13",
+      "created_at": "2026-09-13",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Mid-Senior level",
+      "function": "Product Management",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p><strong>Who Are We❓</strong></p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p></p><p><strong>What Will You Do❓</strong></p><ul><li>Define and execute the product strategy for Foodics ERP across the Middle East and Egypt.</li><li>Build an AI Native ERP platform deeply integrated with the Foodics Financial Services ecosystem.</li><li>Ensure the product supports end-to-end financial workflows for restaurants, from transaction capture to financial reporting.</li><li>Design ERP workflows compliant with regional tax authorities, including:</li><ul><li>ZATCA (Saudi Arabia)</li><li>UAE VAT regulations</li><li>Egyptian Tax Authority</li><li>Other regional compliance frameworks.</li></ul><li>Ensure the system supports VAT, e-invoicing, and regulatory reporting requirements across markets.</li><li>Develop AI-driven automation rules for bookkeeping and reconciliation to minimize manual finance tasks.</li><li>Enable AI-powered categorization of transactions from POS, payments, and expenses.</li><li>Design smart, AI Native ERP workflows tailored for restaurant operations.</li><li>Ensure seamless integration with:</li><ul><li>Foodics POS</li></ul><ul><li>Foodics Payments</li><li>Inventory &amp; purchasing</li><li>Payroll and expenses</li><li>Banking integrations</li></ul><li>Build APIs and integrations with external financial systems where necessary.</li><li>Translate product vision into roadmaps, PRDs, and execution plans.</li><li>Work closely with engineering, design, compliance, and financial experts.</li><li>Prioritize features based on customer value, regulatory requirements, and scalability.</li><li>Conduct market research on regional ERP solutions and regulatory environments.</li><li>Gather feedback from accountants, restaurant operators, and finance teams.</li><li>Identify opportunities to simplify financial workflows for SMEs and enterprise restaurant groups.</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>5-6 years of experience in Product Management; prior ERP experience is a must, and Fintech experience is a plus.</li><li>Strong understanding of accounting principles and financial reporting.</li><li>Experience building products with tax compliance or regulatory frameworks.</li><li>Ability to work with complex financial workflows and automation systems.</li><li>Strong analytical and problem-solving skills.</li><li>Experience working with cross-functional teams including engineering, compliance, and finance.</li></ul><p><strong>Benefits</strong></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul></ul><p></p>"
+    },
+    {
+      "title": "VP of FP&A and Investor Relations",
+      "shortcode": "26D2DC803F",
+      "code": "",
+      "employment_type": "Full-time",
+      "telecommuting": false,
+      "department": "Finance",
+      "url": "https://apply.workable.com/j/26D2DC803F",
+      "shortlink": "https://apply.workable.com/j/26D2DC803F",
+      "application_url": "https://apply.workable.com/j/26D2DC803F/apply",
+      "published_on": "2026-10-18",
+      "created_at": "2026-08-26",
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "state": "Riyadh Province",
+      "education": "Bachelor's Degree",
+      "experience": "Director",
+      "function": "Finance",
+      "industry": "Information Technology and Services",
+      "locations": [
+        {
+          "country": "Saudi Arabia",
+          "countryCode": "SA",
+          "city": "Riyadh",
+          "region": "Riyadh Province",
+          "hidden": false
+        }
+      ],
+      "description": "<p></p><p>Who Are We❓</p><p>We Are Foodics! a leading restaurant management ecosystem and payment tech provider. Founded in 2014 with headquarters in Riyadh and offices across 5 countries, including UAE, Egypt, Jordan and Kuwait. We are currently serving customers and partners in over 35 different countries worldwide. Our innovative products have successfully processed over 6 billion (yes, billion with a B) orders so far! making Foodics one of the most rapidly evolving SaaS companies to ever emerge from the MENA region. Also, Foodics has achieved three rounds of funding, with the latest raising $170 million in the largest SaaS funding round in MENA, boosting its innovation capabilities to better serve business owners.</p><p>The Job in a Nutshell💡</p><p>Foodics is looking for a commercially minded, analytical and technology-forward finance leader to own the company's FP&amp;A and Investor Relations . This is not a traditional budgeting and reporting role. The VP of FP&amp;A and Investor Relations will be a strategic partner to the CFO, CEO, Board and leadership team — translating performance into decisions, challenging assumptions, improving forecast quality, managing the company's relationships with investors and stakeholders, and building a scalable, AI-enabled FP&amp;A function across a business operating at the intersection of SaaS, fintech and payments.</p><p></p><h3>Main Task &amp; Responsibilities 💡</h3><ul><li>Own annual budgeting, long-range planning, rolling forecasts and reforecast cycles, with clear full-year landing views and disciplined forecast accuracy.</li><li>Lead monthly performance reviews across revenue, ARR, gross profit, margins, EBITDA, OPEX, cash flow, headcount and key operating metrics.</li><li>Translate results into concise executive insights: what changed, why it changed, what it means, and what management should do next.</li><li>Build driver-based financial models and base / upside / downside scenarios to support strategic and operating decisions.</li><li>Act as senior finance partner to Commercial, Product, Technology, Operations and People teams, challenging assumptions and improving resource allocation.</li><li>Strengthen OPEX, headcount, CAPEX and strategic-investment governance, with clear ownership and accountability across the business.</li><li>Evaluate pricing, new products, geographic expansion, partnerships, major commercial initiatives and M&amp;A opportunities through robust business cases and post-investment reviews.</li><li>Upgrade FP&amp;A systems, reporting and automation so the function scales with Foodics and relies less on manual spreadsheet-heavy processes.</li><li>Serve as a key point of contact for existing and prospective investors, lenders and other external financial stakeholders.</li><li>Prepare Board decks, investor updates, quarterly/annual reporting packages and ad-hoc materials that clearly articulate company performance, strategy and outlook.</li><li>Manage the capital-raise narrative and supporting materials (data rooms, financial models, KPI packs) in partnership with the CFO/CEO during fundraising or strategic transactions.</li><li>Own the investor reporting calendar, ensuring timely, accurate and consistent communication of financial and operating results.</li><li>Track investor sentiment, market trends, comparable company performance and industry benchmarks relevant to SaaS/fintech/payments to inform positioning.</li><li>Coordinate due diligence processes with investors, auditors and advisors, ensuring data integrity and consistency across all external-facing materials.</li><li>Use Claude to accelerate performance analysis, scenario modelling, business cases and management commentary.</li><li>Interrogate large financial / operating datasets and identify drivers, anomalies, trends, risks and opportunities.</li><li>Create repeatable AI workflows or agents for recurring FP&amp;A tasks and ad-hoc executive analysis.</li><li>Combine Claude with Excel / Google Sheets, BI tools, SQL, planning systems or other finance technology.</li><li>Define where AI should automate work, where human judgment remains essential, and how outputs should be validated</li></ul><p></p><p><strong>What Are We Looking For❓</strong></p><ul><li>12-15+ years of relevant experience in FP&amp;A, commercial finance, business finance or strategic finance, with meaningful</li><li>leadership responsibility.</li><li>Professional qualification is mandatory: active CMA certification or CFA charter.</li><li>Demonstrated strong understanding of both SaaS and Fintech industries, including recurring-revenue economics, retention, churn, unit economics, payments economics, margins and the key operating drivers of technology-enabled financial services.</li><li>Demonstrated current and sophisticated use of Claude in day-to-day finance work; basic AI exposure is not sufficient.</li><li>Direct partnership with senior executives and experience presenting to Executive Committee / Board / investor audiences.</li><li>Advanced Excel / Google Sheets; BI, SQL, planning tool and finance automation experience are highly desirable.</li></ul><p></p><p><strong>What We Offer You❗</strong></p><p>We believe you will love working at Foodics!</p><ul><li>We offer highly competitive compensation packages, including bonuses and the potential for shares.</li><li>We prioritize personal development and offer regular training and an annual learning stipend to tackle new challenges and grow your career in a hyper-growth environment.</li><li>Join a talented team of over 30 nationalities working in 14 countries, and gain valuable experience in an exciting industry.</li><li>We offer autonomy, mentoring, and challenging goals that create incredible opportunities for both you and the company.</li></ul><p><br><br></p><p></p>"
+    }
+  ]
+}
